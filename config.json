@@ -1,0 +1,21 @@
+{
+    "___META__COMMENT___": "pipes are listed in order ",
+
+    "approach": "modelApproach",
+
+    "modelApproach": {
+        "trainedModelPath": ".\\modelApproach\\training\\model-best",
+        "inputData" : ".\\modelApproach\\data\\test.spacy"
+    },
+
+    "heuristicApproach": {
+        "spacyModel": "en_core_web_sm",
+        "dumpHeuristicCSV": "False",
+        "enableFilter": "False",
+        "trainingBase": "en_core_web_sm",
+        "additionalStopWords": ["many", "us", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday",
+        "today", "january", "february", "march", "april", "may", "june", "july", "august",
+        "september", "october", "november", "december", "today", "old", "new"]        
+    }
+
+}
