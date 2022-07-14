@@ -1,7 +1,7 @@
 {
     "___META__COMMENT___": "pipes are listed in order ",
 
-    "approach": "modelApproach",
+    "approach": "heuristicApproach",
 
     "modelApproach": {
         "trainedModelPath": ".\\modelApproach\\training\\model-best",
@@ -10,7 +10,7 @@
 
     "heuristicApproach": {
         "spacyModel": "en_core_web_sm",
-        "dumpHeuristicCSV": "False",
+        "dumpHeuristicCSV": "True",
         "enableFilter": "False",
         "trainingBase": "en_core_web_sm",
         "additionalStopWords": ["many", "us", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday",

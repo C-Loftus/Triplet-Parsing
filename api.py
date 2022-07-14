@@ -27,17 +27,16 @@ class Pipeline():
 
     def tryExceptDefault(self, approach, configArg, defaultFallBack):
         try:
-            return self.conf[approach][configArg] if self.conf[approach][configArg] != None else defaultFallBack
+            return type(defaultFallBack)(self.conf[approach][configArg]) if self.conf[approach][configArg] != None else defaultFallBack
         except:
             return defaultFallBack
 
     def _initModelConfig(self):
         self.trainedModelpath = self.tryExceptDefault("modelApproach", "trainedModelpath", ".\\modelApproach\\training\\model-best")
         self.inputData = self.tryExceptDefault("modelApproach", "inputData", ".\\modelApproach\\training\\model-best")
+        return self
 
     def _initHeuristicConfig(self):
-
-
         self.enableFilter= self.tryExceptDefault("heuristicApproach", "enableFilter",False)
         self.dumpHeuristicCSV= self.tryExceptDefault("heuristicApproach","dumpHeuristicCSV",False)
         self.spacyModel= self.tryExceptDefault("heuristicApproach", "spacyModel","en_core_web_sm")
@@ -157,7 +156,7 @@ if __name__ == "__main__":
     else: 
         # put some random article name here if you want to
         # show it by default without cli args
-        input_str = "Bakcharskoye mine"
+        input_str = "Paper"
     res = (p._testWikipedia(input_str))
     # res = p.run("test")
     print(res)

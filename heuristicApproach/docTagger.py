@@ -1,4 +1,4 @@
-from typing import Tuple
+from typing import List, Tuple
 import spacy
 from spacy.attrs import intify_attrs
 import pandas as pd
@@ -78,7 +78,7 @@ def associate_entities(spacy_entities, df):
     # returns dataframe with new column that corresponds to the relevant entity type
     return df
 
-def tagger(model, text) -> Tuple:
+def tagger(model, text) -> Tuple[pd.DataFrame, list]:
     df_out = pd.DataFrame(columns=['Document#', 'Sentence#', 'Word#', 'Word', 'EntityType', 'EntityIOB', 'Lemma', 'POS', 'POSTag', 'Start', 'End', 'Dependency'])
     corefs = []
     nlp = spacy.load(model)
