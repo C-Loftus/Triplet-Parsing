@@ -4,9 +4,12 @@ import re
 # mess with parsing due to unique encoding.
 def clean(text):
     text.replace('\\n', ' ')
-
     text = text.strip('[(),- :\'\"\n]\s*')
     text = text.replace('—', ' - ')
+    import warnings
+    warnings.filterwarnings("ignore")
+    # in python 3.10 the line below gives a nested set warning. Not an issue in other versions of python
+    # so we just ignore it. Shouldn't affect output behavior to my knowledge
     text = re.sub('([A-Za-z0-9\)]{2,}\.)([A-Z]+[a-z]*)', r"\g<1> \g<2>", text, flags=re.UNICODE)
     text = re.sub('([A-Za-z0-9]{2,}\.)(\"\w+)', r"\g<1> \g<2>", text, flags=re.UNICODE)
     text = re.sub('([A-Za-z0-9]{2,}\.\/)(\w+)', r"\g<1> \g<2>", text, flags=re.UNICODE)

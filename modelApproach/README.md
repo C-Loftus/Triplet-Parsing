@@ -1,9 +1,4 @@
-<a href="https://www.youtube.com/watch?v=8HL-Ap5_Axo" target="_blank"><img src="https://user-images.githubusercontent.com/8796347/117116338-8566cc00-ad8e-11eb-9cd3-e88e94fadb6a.jpg" width="300" height="auto" align="right" /></a>
-
-
-<!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
-
-# 🪐 spaCy Project: Example project of creating a novel nlp component to do relation extraction from scratch.
+# Creating a nlp component to do relation extraction from scratch.
 
 This example project shows how to implement a spaCy component with a custom Machine Learning model, how to train it with and without a transformer, and how to apply it on an evaluation dataset.
 
@@ -48,5 +43,3 @@ in the project directory.
 | File | Source | Description |
 | --- | --- | --- |
 | [`assets/annotations.jsonl`](assets/annotations.jsonl) | Local | Gold-standard REL annotations created with Prodigy |
-
-<!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->

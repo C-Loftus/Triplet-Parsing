@@ -19,6 +19,7 @@ except:
 def inferFromModel(trained_pipeline: Path, test_data: Path):
     dumpAsJSON = False
     nlp = spacy.load(trained_pipeline)
+    allTriplets = []
 
     doc_bin = DocBin(store_user_data=True).from_disk(test_data)
     docs = doc_bin.get_docs(nlp.vocab)
@@ -34,18 +35,18 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
             pred = proc(pred)
         examples.append(Example(pred, gold))
 
-        allTriplets = []
+ 
+        
+        # print(f"Text: {gold.text}")
+        spans = [(e.start, e.text, e.label_) for e in pred.ents]
         jsonTriplet = {
-            "ent1": "",
-            "label1": "",
-            "ent2": "",
-            "label2": "",
-            "relation": ""
+         "ent1": "",
+         "label1": "",
+         "ent2": "",
+         "label2": "",
+         "relation": ""
         }
         stdTriplet = [["", "",""], ["", "", ""]]
-        
-        print(f"Text: {gold.text}")
-        spans = [(e.start, e.text, e.label_) for e in pred.ents]
 
         for spanIndices, rel_dict in pred._.rel.items():
             gold_labels = [k for (k, v) in gold._.rel[spanIndices].items() if v == 1.0]
@@ -76,8 +77,8 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
                             stdTriplet[ENT_LABELS][2] = label
                             stdTriplet[ENT_TEXT][1] = rel_dict
                             allTriplets.append(stdTriplet) 
-                            print(stdTriplet)
                         break
-                
+    return allTriplets
+
 if __name__ == "__main__":
-    typer.run(inferFromModel)
+    print(typer.run(inferFromModel))

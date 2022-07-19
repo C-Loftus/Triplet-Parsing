@@ -1,17 +1,21 @@
 {
-    "___META__COMMENT___": "pipes are listed in order ",
+    "___META__COMMENT___": "This file contains all relevant configuration options for both approaches. \"approach\" Specifies whether you want a model based transformer approach or a heuristic approach that uses rules based on part of speech. To use a filter to get a only your desired entities for the final schema, fill in the list \"onlyTheseEnts\". The entities in this list must be  spelled exactly the same with the same capitalization.",
 
     "approach": "heuristicApproach",
 
+    "filter": {
+        "enableFilter": "False",
+        "onlyTheseEnts" : ["CARDINAL"]
+    },
+
     "modelApproach": {
         "trainedModelPath": ".\\modelApproach\\training\\model-best",
-        "inputData" : ".\\modelApproach\\data\\test.spacy"
+        "inputDataPath" : ".\\modelApproach\\data\\test.spacy"
     },
 
     "heuristicApproach": {
         "spacyModel": "en_core_web_sm",
-        "dumpHeuristicCSV": "True",
-        "enableFilter": "False",
+        "dumpHeuristicCSV": "False",
         "trainingBase": "en_core_web_sm",
         "additionalStopWords": ["many", "us", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday",
         "today", "january", "february", "march", "april", "may", "june", "july", "august",

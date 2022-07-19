@@ -1,3 +1,4 @@
+from html import entities
 from typing import Tuple
 import networkx as nx
 import re, pandas as pd
@@ -170,10 +171,9 @@ def getEntitiesFromTriplets(triplets, df: pd.DataFrame):
                 output[0] = df["RelevantEntities"][index]
             if sentence in o:
                 output[2] = df["RelevantEntities"][index]
-            if output[0] != "" and output[2] != "":
-                break 
         allOutput.append(output)
 
+    # [print(t, e) for t, e in zip(triplets, allOutput)]
     return allOutput
     
 
