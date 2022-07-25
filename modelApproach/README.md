@@ -22,6 +22,8 @@ Commands are only re-run if their inputs have changed.
 | `evaluate` | Apply the best model to new, unseen text, and measure accuracy at different thresholds. |
 | `clean` | Remove intermediate files to start data preparation and training from a clean slate. |
 
+To switch to using an existing transformer model you should go into `configs/rel_trf.cfg` and change any variables for your appropriate transformer model. Then change any references in the top level `project.yml` file to use `rel_trf.cfg` instead of `rel_tok2vec.cfg`. This will make it so the project is run with the transformer config.
+
 ### ⏭ Workflows
 
 The following workflows are defined by the project. They

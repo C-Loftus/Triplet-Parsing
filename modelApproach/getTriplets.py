@@ -35,7 +35,8 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
             pred = proc(pred)
         examples.append(Example(pred, gold))
 
- 
+        print(f"\n\nText: {gold.text}")
+
         
         # print(f"Text: {gold.text}")
         spans = [(e.start, e.text, e.label_) for e in pred.ents]
@@ -78,6 +79,7 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
                             stdTriplet[ENT_TEXT][1] = rel_dict
                             allTriplets.append(stdTriplet) 
                         break
+        # print(stdTriplet)
     return allTriplets
 
 if __name__ == "__main__":

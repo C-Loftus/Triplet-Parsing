@@ -25,7 +25,7 @@ class Pipeline():
     ]
 
     # try to parse the necessary items from config, if it isn't there, use the fallback
-    def tryExceptDefault(self, approach, configArg, defaultFallBack):
+    def _tryExceptDefault(self, approach, configArg, defaultFallBack):
         try:
             if self.conf[approach][configArg] != None:
                 # parse boolean strings into bool type. This is since bool("False") still returns 
@@ -40,13 +40,13 @@ class Pipeline():
             return defaultFallBack
 
     def _initModelConfig(self):
-        self.trainedModelpath = self.tryExceptDefault("modelApproach", "trainedModelpath", ".\\modelApproach\\training\\model-best")
-        self.inputDataPath = self.tryExceptDefault("modelApproach", "inputDataPath", ".\\modelApproach\\training\\model-best")
+        self.trainedModelpath = self._tryExceptDefault("modelApproach", "trainedModelpath", ".\\modelApproach\\training\\model-best")
+        self.inputDataPath = self._tryExceptDefault("modelApproach", "inputDataPath", ".\\modelApproach\\training\\model-best")
         return self
 
     def _initHeuristicConfig(self):
-        self.dumpHeuristicCSV= self.tryExceptDefault("heuristicApproach","dumpHeuristicCSV", False)
-        self.spacyModel= self.tryExceptDefault("heuristicApproach", "spacyModel","en_core_web_sm")
+        self.dumpHeuristicCSV= self._tryExceptDefault("heuristicApproach","dumpHeuristicCSV", False)
+        self.spacyModel= self._tryExceptDefault("heuristicApproach", "spacyModel","en_core_web_sm")
 
         nlp = spacy.load(self.spacyModel)
         allTypes = nlp.get_pipe("ner").labels
@@ -75,8 +75,8 @@ class Pipeline():
         elif self.approach == "heuristicApproach":
             self = self._initHeuristicConfig()
             
-        self.enableFilter= self.tryExceptDefault("filter", "enableFilter",False)
-        self.onlyTheseEnts = self.tryExceptDefault("filter", "onlyTheseEnts", [])
+        self.enableFilter= self._tryExceptDefault("filter", "enableFilter",False)
+        self.onlyTheseEnts = self._tryExceptDefault("filter", "onlyTheseEnts", [])
 
 
     def __str__(self):
@@ -86,7 +86,7 @@ class Pipeline():
         return pdf.replace('\\n', '').replace('•', '').replace("\\x0c", "").replace("...", " ")
 
     # go through and remove entities that  aren't a valid type you want in the final schema
-    def _filterEntities(self, triplets, entities):
+    def _filterEntities(self, triplets, entities) -> tuple[list, list]:
         if self.enableFilter != True:
             return triplets, entities
 
@@ -100,7 +100,7 @@ class Pipeline():
                     break
         return filteredTrip, filteredEnt
     
-    def runFromPDF(self, path: str):
+    def runFromPDF(self, path: str) -> tuple[list, list]:
         pdfText = extract_text(path)
         pdfText = (repr(pdfText))
         text = self._cleanPDF(pdfText)
@@ -127,11 +127,9 @@ class Pipeline():
         
         return triplets, entities
 
-
-    def plotGraph(self, triplets: list):
+    def plotGraph(self, triplets: list) -> None:
         g = graph.tripletGraph(triplets)
         g.plot()
-
     # text representation
     def printGraph(self, triplets: list):
         print(graph.tripletGraph(triplets))
@@ -177,6 +175,6 @@ if __name__ == "__main__":
     else: 
         # put some random article name here if you want to
         # show it by default without cli args
-        input_str = "Paper"
+        input_str = "Luciferase"
     triplets, entities = (p._testWikipedia(input_str))
     [print(t, e) for t, e in zip(triplets, entities)]
