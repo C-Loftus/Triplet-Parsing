@@ -1,14 +1,12 @@
-from ast import dump
-import json
-import random
-from typing import Tuple
-import typer, sys
+import typer
 from pathlib import Path
 import spacy
 from spacy.tokens import DocBin, Doc
 from spacy.training.example import Example
 
-# this works, don't know how to do it more elegantly
+# this works so i can run this file from both
+# this directory and the directory above
+#, don't know how to do it more elegantly
 try:
     from .scripts.rel_pipe import *
     from .scripts.rel_model import *
@@ -16,8 +14,12 @@ except:
     from scripts.rel_pipe import *
     from scripts.rel_model import *
 
-def inferFromModel(trained_pipeline: Path, test_data: Path):
-    dumpAsJSON = False
+def inferFromModel(
+    trained_pipeline: Path, 
+    test_data: Path, 
+    debug: Optional[bool] = typer.Option(False),
+    json_output: Optional[bool] = typer.Option(False)
+):
     nlp = spacy.load(trained_pipeline)
     allTriplets = []
 
@@ -35,10 +37,10 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
             pred = proc(pred)
         examples.append(Example(pred, gold))
 
-        print(f"\n\nText: {gold.text}")
 
-        
-        # print(f"Text: {gold.text}")
+        if debug == True:
+            print(f"\n\nText: {gold.text}")
+
         spans = [(e.start, e.text, e.label_) for e in pred.ents]
         jsonTriplet = {
          "ent1": "",
@@ -58,7 +60,7 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
                 ENT_LABELS = 1
                 for start, text, label in spans:
                     if start == spanIndices[0]:
-                        if dumpAsJSON:
+                        if json_output:
                             jsonTriplet["ent1"] = text
                             jsonTriplet["label1"]=label
                         else:
@@ -68,7 +70,7 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
 
                 for start, text, label in spans:
                     if start == spanIndices[1]:    
-                        if dumpAsJSON:
+                        if json_output:
                             jsonTriplet["ent2"] = text
                             jsonTriplet["label2"]=label
                             jsonTriplet["relation"] = rel_dict
@@ -79,7 +81,9 @@ def inferFromModel(trained_pipeline: Path, test_data: Path):
                             stdTriplet[ENT_TEXT][1] = rel_dict
                             allTriplets.append(stdTriplet) 
                         break
-        # print(stdTriplet)
+        if debug == True:
+            print(stdTriplet)
+    assert type(allTriplets) == list
     return allTriplets
 
 if __name__ == "__main__":

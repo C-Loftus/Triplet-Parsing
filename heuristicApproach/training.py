@@ -1,4 +1,3 @@
-from email.mime import base
 import spacy
 import random
 from spacy.util import minibatch, compounding

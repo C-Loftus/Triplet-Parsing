@@ -13,7 +13,14 @@ conda env create -f env.yml
 You can also install the environment from a requirements.txt provided. 
 
 ## Running
-To run this program specify your desired approach in config.json under the `"approach"` variable. All the other variables should have sensible defaults. However, they can be changed to your liking. `api.py` provides an a pipeline class for querying either approach. You can also run it directly provided you have your preferred behavior in the `if __name__ == "__main__"` section.
+To use my code in your own Python code, use the interface as defined in `api.py` within the `Pipeline` class. 
+
+All features related to triplet parsing are contained with `config.json`. All features related to the api itself (where to parse triplets from, whether to print them out, etc.) are contained within the cli of `api.py`.
+
+To run this program from the command line, specify your desired approach in config.json under the `"approach"` variable. All the other variables should have sensible defaults. However, they can be changed to your liking. `api.py` provides an a pipeline class for querying either approach. I used 'typer' as the way to build my cli. 
 ```
 python api.py
 ```
+
+## Legal
+All software that I built upon or referenced in this project was in the public domain, Creative Commons, or MIT Licensed. All of these licenses are appropriate for my project.

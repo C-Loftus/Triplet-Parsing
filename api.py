@@ -1,7 +1,8 @@
-import inspect, requests
+from typing import Optional
+import requests
 from nltk.corpus import stopwords
 from nltk import download
-import sys, pathlib, os, time, spacy, json, ast
+import pathlib, os, time, spacy, json, ast
 from pdfminer.high_level import extract_text
 from modelApproach.getTriplets import inferFromModel
 
@@ -12,6 +13,7 @@ from   heuristicApproach.tripletFilter import filterTriplets as tripletFilter
 import graph
 import heuristicApproach.training as training
 
+import typer
 
 CONFIG_PATH = "config.json"
 
@@ -40,7 +42,7 @@ class Pipeline():
             return defaultFallBack
 
     def _initModelConfig(self):
-        self.trainedModelpath = self._tryExceptDefault("modelApproach", "trainedModelpath", ".\\modelApproach\\training\\model-best")
+        self.trainedModelPath = self._tryExceptDefault("modelApproach", "trainedModelPath", ".\\modelApproach\\training\\model-best")
         self.inputDataPath = self._tryExceptDefault("modelApproach", "inputDataPath", ".\\modelApproach\\training\\model-best")
         return self
 
@@ -118,7 +120,7 @@ class Pipeline():
             triplets, entities = tripletFilter(self.stopWords, base_triplets, entitiesTypes)
 
         elif self.approach == "modelApproach":
-            parallelArrays = inferFromModel(self.trainedModelpath, self.inputDataPath)
+            parallelArrays = inferFromModel(self.trainedModelPath, self.inputDataPath, False, False)
             triplets = [array[0] for array in parallelArrays]
             entities = [array[1] for array in parallelArrays]
 
@@ -166,15 +168,32 @@ class Pipeline():
 
         training.runTrainer(trainedModelPath, trainingData, baseModel=self.spacyModel)
 
-if __name__ == "__main__":
-
+def cli_runner(
+    stdout: Optional[bool] = typer.Option(False, help="Print triplets and entities to stdout."),
+    test_article: Optional[str] = typer.Option(None, help="Test triplets on a Wikipedia article"),
+    raw_text: Optional[str] = typer.Option(None, help="Create triplets from raw text from stdin"),
+    config_path: str = typer.Option(CONFIG_PATH),
+    pdf: Optional[str] = typer.Option(None , help="Takes in a path. Parses triplets from a PDF. Must use heuristics."),
+    graph: Optional[bool] = typer.Option(False, help="Graph the triplets and entities that were parsed from the approach.")
+):
+    global CONFIG_PATH
+    CONFIG_PATH = config_path
     p = Pipeline()
+    triplets, entities = [], []
+    if test_article != None: 
+        triplets, entities = (p._testWikipedia(test_article))
+    elif pdf != None:
+        triplets, entities = (p.runFromPDF(pdf))
+    else:
+        triplets, entities = p.run(raw_text)
+
     
-    if len(sys.argv) > 1:
-        input_str = (sys.argv[1])
-    else: 
-        # put some random article name here if you want to
-        # show it by default without cli args
-        input_str = "Luciferase"
-    triplets, entities = (p._testWikipedia(input_str))
-    [print(t, e) for t, e in zip(triplets, entities)]
+    if stdout == True:
+        for t, e in zip(triplets, entities):
+            print(t,e)
+
+    if graph == True:
+        p.plotGraph(triplets)
+
+if __name__ == "__main__":
+    typer.run(cli_runner)

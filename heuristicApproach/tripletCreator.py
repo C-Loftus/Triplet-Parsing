@@ -1,9 +1,4 @@
-from html import entities
-from typing import Tuple
-import networkx as nx
 import re, pandas as pd
-import matplotlib.pyplot as plt
-
 
 # takes in a sentence and returns the predicates with their associated values
 def get_predicate(s):
