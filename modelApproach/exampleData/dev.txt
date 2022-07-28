@@ -1,0 +1,739 @@
+[
+  {
+    "document": "Betsson Group AB has continued its commitment to diversity and inclusion by becoming a founding member of the All-In Diversity Project. This latest development builds on the diversity-focused initiatives it is already a part of. Although headquartered in the Swedish capital, Betsson also has eight other offices and over 1,800 employees. Committing to the cause The All-In Diversity Project was launched in 2017 and is designed to promote diversity and inclusion within the online gambling industry. Since it was launched, a variety of industry-wide initiatives have been launched. One of these is the #opendoors campaign, which was announced in January 2020. Betsson Groups Chief HR Officer, Lena Nordin, shared her thoughts on the companys strive to promote inclusivity. These were as follows. We are an inclusive company and with 1,800 staff members across nine offices, we have the track record to prove it. With 57 nationalities from 5 different continents, 40% women and 60% men, spread across four generations, Betsson Group is indeed a melting pot of different experiences, backgrounds and ideas. Partnerships with like-minded partners, such as the All-In Diversity Project, allows us to achieve greater diversity and inclusion not only within our company, but also within the wider industry. Earlier this year, Betsson introduced DIB (Diversity, Inclusion and Belonging). And in February, the Women in Betsson (WiB) network was established. This aims to build a platform where female empowerment and equality in iGaming are given more awareness. The group has also received recognition for its workplace culture. At the 2020 International Gaming Awards, it won Great Place to Work. Last year, Betsson won Company of the Year in the Women in Gaming Diversity Awards. Moreover, the operator was named Employer of the Year at the 2019 EGR Awards. Nordin continued by saying the following. At Betsson we cherish the fact that every individual is unique. A focus on Diversity allows us to recognise those individual traits, whilst Inclusion is all about embracing the differences between us. We practice inclusion by ensuring that everyone feels welcomed and respected and this creates a sense of Belonging to the Betsson family. Kelly Kehn, Co-Founder of the All-In Diversity Project, also shared her thoughts on Betsson. These are below. Betsson is the kind of company who leads by example and we are pleased to welcome them as Founding Members. They are leaders in so many areas and their approach to Diversity & Inclusion is no different. Industry collaboration and support is so important when working towards change and this point is made especially significant during COVID-19. We are happy to be partnered with and supported by Betsson.",
+    "tokens": [
+      {
+        "text": "Betsson",
+        "start": 661,
+        "end": 668,
+        "token_start": 111,
+        "token_end": 111,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Lena Nordin",
+        "start": 694,
+        "end": 705,
+        "token_start": 117,
+        "token_end": 118,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "All-In Diversity Project",
+        "start": 2265,
+        "end": 2289,
+        "token_start": 403,
+        "token_end": 405,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Kelly Kehn",
+        "start": 2235,
+        "end": 2245,
+        "token_start": 397,
+        "token_end": 398,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 117,
+        "head": 111,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 403,
+        "head": 397,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "A Stanford and Harvard professor convened a symposium on whats actually working to improve diversity and inclusion in organizational life. In this article, David Pedulla summarizes the main findings. First, organizations should set goals, collect data, and hold people accountable for improving diversity within the organization. Second, organizations should abandon traditional discrimination and harassment reporting systems these often lead to retaliation. Employee Assistance Plans (EAPs), ombuds offices, and transformative dispute resolution systems can play a critical role in not only reducing retaliation but also provide fuel for organizational change. Third, organizations should check to ensure that technologies used to assist in hiring and promotion arent inherently biased. Fourth, companies must avoid tokenism. Finally, organizations should get managers and other leaders involved in diversity programs from the start. This will increase buy-in and lead to smooth implementation. In the wake of major social and political changes over the past decades, leading companies are taking steps to increase diversity, equity, and inclusion. Yet progress in most sectors remains tepid. Programs designed to increase diversity and inclusion in the workplace often fail. So that leads to a natural question: Whats actually working? Focusing on solutions to the diversity challenge rather than on the failures was top of mind when Devah Pager and I designed a convening in 2018. We brought together leading experts on bias, technology, discrimination, and organizational design, and rather than documenting the problems that abound we asked everyone to focus on answering one simple question: What works? (Pager, who was the Peter and Isabel Malkin professor of public policy and professor of sociology at Harvard University, passed away in 2018. The ongoing aspects of our project, I hope, are a testament to her pathbreaking work on racial discrimination and social inequality.) It was challenging to keep our emphasis on solutions. As became clear, there is no silver bullet. No single solution. Yet, in pushing ourselves to think outside the box and draw on the best empirical evidence that exists, the convening participants identified promising areas where investment, focus, and experimentation have the ability to serve as remarkable engines of change We dove into these promising areas and produced a report, titled What Works? Evidence-Based Ideas to Increase Diversity, Equity, and Inclusion in the Workplace. Here, I highlight five key insights that can serve as tools for those looking to make their workplaces more diverse, more thriving places. Set goals, collect data, and examine change over time and in comparison to other organizations: When it comes to maximizing profits and effectiveness, many businesses deploy this set of strategies. Why not do the same for issues of diversity and inclusion? Sociologists Elizabeth Hirsh at University of British Columbia and Donald Tomaskovic-Devey at University of Massachusetts at Amherst argue that companies should do precisely this. By collecting and analyzing data on diversity over time, comparing those numbers to the numbers at other organizations, and sharing them with key stakeholders, companies can increase accountability and transparency around diversity issues. Say a company has far lower representation of women in managerial positions relative to the local labor market, similar firms, and/or the goals of the corporation. This identified shortfall can lead to concrete goal setting about numbers and timelines for increasing womens representation in management. In turn, these goals can be made available to key internal and external stakeholders to promote accountability. Of course, this strategy will only work if the data are appropriately analyzed, progress and roadblocks are continually identified, and key stakeholders are able to weigh in to chart a path forward. Approximately half of all discrimination and harassment complaints lead to some type of retaliation. And workers who complain about harassment are more likely to end up facing career challenges or experiencing worse mental and physical health compared to similar workers who were harassed, but did not complain about it. Clearly, something is not working. Sociologists Frank Dobbin from Harvard University and Alexandra Kalev from Tel Aviv University present an innovative way forward: alternatives to legalistic grievance mechanisms. Employee Assistance Plans (EAPs), ombuds offices, and transformative dispute resolution systems can play a critical role in not only reducing retaliation but also provide fuel for organizational change. EAPs, for example, are frequently run by vendors outside the organization and offer free and confidential advice to employees, often over the phone. Yet, EAPs are not used very often to handle discrimination and harassment issues. By expanding their scope to provide valuable support and guidance to employees on strategies and tactics to deploy around harassment and discrimination, EAPs can serve as an important resource for employees, although they do not generally intervene in organizations. Key to this type of shift is changing leadership mindsets from seeing complaints as threats to valuing them as insights that can spark positive organizational change. Technology has become ubiquitous in the workplace. While holding powerful potential to increase efficiency, there is also significant concern that technologies can reproduce and even exacerbate group-based inequalities by race, gender, or other social categories. Business leaders Kelly Trindel and Frida Polli of pymetrics and Kate Glazebrook of Applied offer strategies to reduce the likelihood that biases and discrimination creep in to new technologies. First, technologies that get deployed for corporate screening, hiring, and evaluation processes have to be built on data that is fair to socio-demographic groups such as different racial groups in the aggregate and that is relevant and predictive of success for the particular role being evaluated. But, that alone is not enough. Companies need to proactively test new technologies for disparate impacts on workers before they go in the field and need to audit their procedures after implementation to ensure that biases are not creeping in. The combination of building solutions with an eye to screening out discrimination, and then checking for it on the back end, will not only create fairer products but can also help organizational leaders sharpen their understanding of what does not work in their current system. As behavioral scientists Iris Bohnet and Siri Chilazi, both at Harvard University, discuss, the ways we think about and perceive others can also hamper progress. They present a subtle, yet important, factor that can contribute to biased decision-making: group size. When individuals belong to groups that are seriously underrepresented in the organizational context such as racial minorities or women they may be subjected to stereotype-based evaluations or tokenism. These biased perceptions can then have negative consequences for both individual workers and the larger organization, resulting in limited progress. What can be done to combat these biases? Bohnet and Chilazi suggest that companies need not be stopped by the small numbers problem. In addition to increasing the representation of particular groups, companies can provide more visibility for a larger number and diverse set of underrepresented individuals through opportunities for presentations internally as well as at conferences, for example. These efforts can counteract stereotyping and tokenism over time. Companies can also shift how assessments are run to counteract the impact of bias. One strategy is using simultaneous evaluation processes, rather than evaluating individuals one by one. When possible, for example, instead of hiring for a sales associate position in the winter, another in the spring, and then another in summer, companies could hire for all three sales associates at the same time. This type of architecture for decision-making has been linked to less bias. Organizations are complex and have different internal logics, cultures, and dynamics. As researchers and strategists Lori Nishiura Mackenzie and JoAnne Wehner, both at Stanford VMWare Womens Leadership Innovation Lab, articulate, it therefore does not make sense to take a one-size-fits-all policy and graft it on to different organizations. The organizational context matters.",
+    "tokens": [
+      {
+        "text": "Harvard University",
+        "start": 1812,
+        "end": 1830,
+        "token_start": 302,
+        "token_end": 303,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Pager",
+        "start": 1712,
+        "end": 1717,
+        "token_start": 284,
+        "token_end": 284,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "University of British Columbia",
+        "start": 2955,
+        "end": 2985,
+        "token_start": 508,
+        "token_end": 511,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Elizabeth Hirsh",
+        "start": 2936,
+        "end": 2951,
+        "token_start": 505,
+        "token_end": 506,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "University of Massachusetts",
+        "start": 3017,
+        "end": 3044,
+        "token_start": 516,
+        "token_end": 518,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Donald Tomaskovic-Devey",
+        "start": 2990,
+        "end": 3013,
+        "token_start": 513,
+        "token_end": 514,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Amherst",
+        "start": 3048,
+        "end": 3055,
+        "token_start": 520,
+        "token_end": 520,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "Harvard University",
+        "start": 4345,
+        "end": 4363,
+        "token_start": 735,
+        "token_end": 736,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Frank Dobbin",
+        "start": 4327,
+        "end": 4339,
+        "token_start": 732,
+        "token_end": 733,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Tel Aviv University",
+        "start": 4389,
+        "end": 4408,
+        "token_start": 741,
+        "token_end": 743,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Alexandra Kalev",
+        "start": 4368,
+        "end": 4383,
+        "token_start": 738,
+        "token_end": 739,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "pymetrics",
+        "start": 5675,
+        "end": 5684,
+        "token_start": 948,
+        "token_end": 948,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Kelly Trindel",
+        "start": 5642,
+        "end": 5655,
+        "token_start": 942,
+        "token_end": 943,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Frida Polli",
+        "start": 5660,
+        "end": 5671,
+        "token_start": 945,
+        "token_end": 946,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Applied",
+        "start": 5708,
+        "end": 5715,
+        "token_start": 953,
+        "token_end": 953,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Kate Glazebrook",
+        "start": 5689,
+        "end": 5704,
+        "token_start": 950,
+        "token_end": 951,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Harvard University",
+        "start": 6702,
+        "end": 6720,
+        "token_start": 1122,
+        "token_end": 1123,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Iris Bohnet",
+        "start": 6664,
+        "end": 6675,
+        "token_start": 1114,
+        "token_end": 1115,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Siri Chilazi",
+        "start": 6680,
+        "end": 6692,
+        "token_start": 1117,
+        "token_end": 1118,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Stanford VMWare Womens Leadership Innovation Lab",
+        "start": 8363,
+        "end": 8411,
+        "token_start": 1397,
+        "token_end": 1402,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Lori Nishiura Mackenzie",
+        "start": 8312,
+        "end": 8335,
+        "token_start": 1388,
+        "token_end": 1390,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "JoAnne Wehner",
+        "start": 8340,
+        "end": 8353,
+        "token_start": 1392,
+        "token_end": 1393,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 302,
+        "head": 284,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 508,
+        "head": 505,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 516,
+        "head": 513,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 520,
+        "head": 516,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 735,
+        "head": 732,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 741,
+        "head": 738,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 948,
+        "head": 942,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 948,
+        "head": 945,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 953,
+        "head": 950,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 1122,
+        "head": 1114,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 1122,
+        "head": 1117,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 1397,
+        "head": 1388,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 1397,
+        "head": 1392,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "During a time where people of color specifically Black people and members of marginalized communities are being treated with injustice, CAA is looking to push the needle with new efforts that aim to foster the agencys commitment to diversity and inclusion. CAA has taken action and appointed Lisa Joseph Metelus to the CAA Board, the agencys new leadership structure, formed in January and underscoring the companys continued growth and next-generation strategy. CAA employees worldwide will also participate in Blackout Tuesday on June 2 which marks a day of reflection, disconnecting from work, to provoke accountability, change, and meaningful action. Finally, the agency is set to host its fourth annual Amplify conference, convening diverse leading artists and executives from the most impactful organizations in entertainment, sports, media, brands, technology, and social justice to accelerate the growth, value, and visibility of diversity in business. The events over the past couple weeks continue to demonstrate the injustices Black people face daily, said Richard Lovett, President, CAA. Its critical that we look hard at the deeply flawed systems and racial prejudice that persist in our communities, and most importantly, how we can each be an active ally in changing what is so broken. Words are not enough as always, were committed to taking action, and being brave and united for all of our colleagues, clients, and friends in the Black community. Metelus joins Risa Gertner, Michael Levine, Emma Banks, Joe Cohen, Maha Dakhil, Paul Danforth, Michelle Kydd Lee, Joel Lubin, Sonya Rosenfeld, Rick Roskin, and Tiffany Ward, who collectively oversee the day-to-day management of the agency. As Co-Head of Basketball Marketing and Servicing, Metelus, who joined CAA Sports in 2011, helps oversee the off-the-court efforts of more than four dozen emerging and NBA All-Star players. Her personal clients include Dwyane Wade, Zion Williamson, Jaren Jackson Jr., and Collin Sexton, among others. Earlier this year, Metelus was integral in the ideation and launch of CAA AMP, a cultural strategy agency, with an in-depth understanding of unique communities, voices, passions, values, and beliefs. Led by Wade, CAA AMP is housed within CAAs award-winning Brand Consulting division, and provides additional expertise and focus on helping brands understand the powerful role of cultural amplification today, delivering marketing solutions that reach new audiences and deeper consumer engagement. A strong advocate for the empowerment of female executives in sports, Metelus launched PLAYMAKEHER, which is dedicated to bringing together men and women in celebration of women within the entertainment and sports industries. We have reached an inflection point for change in sports and entertainment. The need for inclusion of black voices in senior management level positions and board rooms is necessary for the progress of our industry and many other industries with global reach. Its important that we reflect who we represent, said Metelus. This role allows me to bring my voice and perspective into the board room, to impact decision-making, drive new business development and continue advocating for our rising black leaders.",
+    "tokens": [
+      {
+        "text": "CAA",
+        "start": 1095,
+        "end": 1098,
+        "token_start": 185,
+        "token_end": 185,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Richard Lovett",
+        "start": 1068,
+        "end": 1082,
+        "token_start": 180,
+        "token_end": 181,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Metelus",
+        "start": 1755,
+        "end": 1762,
+        "token_start": 314,
+        "token_end": 314,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "CAA",
+        "start": 1775,
+        "end": 1778,
+        "token_start": 318,
+        "token_end": 318,
+        "entityLabel": "ORG"
+      }
+    ],
+    "relations": [
+      {
+        "child": 185,
+        "head": 180,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 318,
+        "head": 314,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "Time is running out for companies and individuals to submit an entry to the 2020 AFBE-UK Diversity and Inclusion Awards. The awards celebrate diversity and inclusion achievements in the science, technology, engineering and mathematics arenas. The deadline for entries is Friday, June 12 (2020), with finalists due to be announced on Wednesday, August 12 (2020). AFBE-UK Scotland (Association for Black and Minority Ethnic Engineers Scotland) plans to hold the gala and awards ceremony on Thursday, November 26 (2020) at the Ardoe House Hotel, near Aberdeen. Colette Cohen, CEO of the Oil and Gas Technology Centre (OGTC), is to give the keynote address. The awards event will honour nominees in the categories of Young BME (black minority ethnic) Professional of the Year, Company of the Year, Outstanding Mentor and BME Leader of the Year. Individuals and companies based in the UK can enter. Previous winners include BP and Shell. Dr Ollie Folayan, chair of AFBE-UK Scotland, said: Influencing and inspiring people from minority ethnic backgrounds to add value to the community through science, technology, engineering and mathematics is our primary goal. The awards event is a fantastic opportunity for building new networks, and promoting the benefit of inclusivity throughout industries. Sponsorship packages for the event are available starting from 2,500, with corporate tables available at 1,500. Founded in London in 2007, AFBE-UK established its Aberdeen chapter in 2011 to support all young people, students and graduates, in particular those from under-represented groups. More than 6,000 people have engaged in programmes hosted by the social enterprise in Aberdeen and Edinburgh. The NextGen schools programme invites industry professionals to share their expertise with the engineers of the future; Real Projects provides technical lectures to encourage networking between students and industry professionals, and Transition events coach students and recent graduates to develop their interview and CV skills through practical workshops. For more awards information, please visit https://afbe.org.uk/news/2020-diversity-and-inclusion-awards-launched-by-afbe-uk-scotland",
+    "tokens": [
+      {
+        "text": "Aberdeen",
+        "start": 548,
+        "end": 556,
+        "token_start": 102,
+        "token_end": 102,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "Ardoe House Hotel",
+        "start": 524,
+        "end": 541,
+        "token_start": 97,
+        "token_end": 99,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Oil and Gas Technology Centre (OGTC)",
+        "start": 584,
+        "end": 620,
+        "token_start": 110,
+        "token_end": 117,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Colette Cohen",
+        "start": 558,
+        "end": 571,
+        "token_start": 104,
+        "token_end": 105,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "AFBE-UK",
+        "start": 960,
+        "end": 967,
+        "token_start": 185,
+        "token_end": 185,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Ollie Folayan",
+        "start": 936,
+        "end": 949,
+        "token_start": 180,
+        "token_end": 181,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "London",
+        "start": 1416,
+        "end": 1422,
+        "token_start": 258,
+        "token_end": 258,
+        "entityLabel": "LOC"
+      }
+    ],
+    "relations": [
+      {
+        "child": 102,
+        "head": 97,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 110,
+        "head": 104,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 185,
+        "head": 180,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 258,
+        "head": 185,
+        "relationLabel": "locatedAt"
+      }
+    ]
+  },
+  {
+    "document": "Twitters Inclusion & Diversity Report for May 2020 focused more on highlighting initiatives the company has put in place since the Covid-19 crisis than on data about hiring and workforce percentages. Vice president of people experience and head of inclusion and diversity Dalana Brand said in a blog post, Although the world doesnt look the same since our last post, our commitment to inclusion and diversity at Twitter has never been stronger. Since our last update, we transitioned more than 5,000 tweeps to a fully virtual workforce, introduced new programs and benefits and doubled down on inclusion in the age of Covid-19. Weve accomplished a lotand learned some important lessons along the way. She added that Twitters efforts in the time of the coronavirus pandemic have been driven by four key principles: Put people firstand really listen: Brand said Twitter created Slack channels specifically for questions about Covid-19, issued a global survey, hosted more global all-hands meetings to check in on employees and increased opportunities to connect virtually across teams, especially via the companys business resource groups. Brand wrote, Working from home and trying to work at home during a global pandemic are different. So, we re-evaluated our global benefits to identify opportunities for enhancements. In addition to reimbursing expenses associated with tweeps WFH setup, we also increased our investments in mental and physical health benefits and explored ways to better support caregivers learning to navigate our new reality. Lead with empathy and flexibility: Twitter found that employees were having difficulty focusing, impacting their productivity, and this was especially true for people from communities of color, caregivers and those at higher risk of infection. Brand said the company introduced resources to help managers prioritize their own well-being while performing their duties and to foster deeper empathy between managers and their direct reports. Twitter also suspended 2020 performance ratings and took steps to enable the company to operate with a reduced workforce, if necessary. The company teamed up with @TwitterParents on a special listening session for parents, finding that its recently introduced supplemental child care benefit was not helping due to shelter-in-place orders, so the alternative was flexible work schedules to enable employees to juggle work and family responsibilities, as well as coaching managers on dealing with asynchronous work. Brand wrote, And since theres no keeping the kids out of the home office, we launched a weekly storytime with Twitter leadership to give everyone a break. ",
+    "tokens": [
+      {
+        "text": "Twitter",
+        "start": 412,
+        "end": 419,
+        "token_start": 72,
+        "token_end": 72,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Dalana Brand",
+        "start": 272,
+        "end": 284,
+        "token_start": 45,
+        "token_end": 46,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 72,
+        "head": 45,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "The NHL is establishing four committees to address issues of diversity and inclusion within hockey and the league, per ESPN's Greg Wyshynski. Kim Davis, the NHL's executive vice president for social impact, growth initiatives and legislative affairs, said an Executive Inclusion Council will field recommendations from three committees: a Player Inclusion Committee, a Fan Inclusion Committee and a Youth Inclusion Committee. The Executive Inclusion Council will consist of 12 people: five NHL owners, five team presidents and two general managers. \"That council is formed so that the ideas that percolate up from these [other] committees will be actionable and [executed] across the entire system,\" Davis said. The Player Inclusion Committee will consist of current and former NHL players and women's players from the United States and Canada. According to Davis, \"That committee will be focused on bringing ideas on how we can continue to build stronger pipelines for players, all the way from the youth system through professional hockey.\" NHL chief marketing officers and \"different partners the league has worked with in the multicultural space,\" per Wyshynski, will sit on the Fan Inclusion Committee board, whose goal will be outreach to underrepresented groups. Youth hockey leaders in the United States and Canada will take charge on the Youth Inclusion Committee. \"They'll talk about what those experiences for kids of color in our youth ecosystem have been,\" Davis said, \"and to change the way that it's been so we can make the experience more welcoming to those kids.\" According to Ryan Patrick Hooper of Detroit NPR affiliate WDET, there were only 43 players of color in the league as of Jan. 17, or less than two per team on average. There are no black head coaches in the NHL. There has been only one in the league's history, as Rhiannon Walker chronicled for The Undefeated in 2018. Dirk Graham coached the Chicago Blackhawks during the 1998-99 season but was fired after 59 games. There have been only a handful of assistant coaches of color in the NHL ranks, including Mike Grier of the New Jersey Devils and Frantz Jean of the Tampa Bay Lightning in the present day. Per Ryan S. Clark of The Athletic, Leo Thomas was the only black head coach in any North American professional hockey league as of February 2019, working as the leader of the Southern Professional Hockey League's Macon Mayhem. However, the Mayhem parted ways with Thomas in November. The NHL has room to grow toward developing more minority coaches who can serve in the NHL ranks, as Davis told Wyshynski: Per Wyshynski, the new committees stem from an announcement at the NHL board of governors meeting in December in which commissioner Gary Bettman asked Davis to create a \"multidisciplinary council looking at diversity initiatives at all levels of hockey.\"",
+    "tokens": [
+      {
+        "text": "NHL's",
+        "start": 157,
+        "end": 162,
+        "token_start": 28,
+        "token_end": 28,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Kim Davis",
+        "start": 142,
+        "end": 151,
+        "token_start": 24,
+        "token_end": 25,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Chicago Blackhawks",
+        "start": 1923,
+        "end": 1941,
+        "token_start": 356,
+        "token_end": 357,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Dirk Graham",
+        "start": 1899,
+        "end": 1910,
+        "token_start": 352,
+        "token_end": 353,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Macon Mayhem",
+        "start": 2399,
+        "end": 2411,
+        "token_start": 447,
+        "token_end": 448,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Leo Thomas",
+        "start": 2221,
+        "end": 2231,
+        "token_start": 417,
+        "token_end": 418,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 28,
+        "head": 24,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 356,
+        "head": 352,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 447,
+        "head": 417,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "The firing of a Franklin Templeton employee accused of launching a racist tirade against an African-American man in New York City reflects the new corporate emphasis on diversity and inclusion practices, with the goal of becoming more attractive employers, observers said. Amy Cooper, a Franklin Templeton executive, was terminated on May 26, a day after a Memorial Day altercation, in which she apparently threatened Christian Cooper (no relation), an African-American man who asked her to leash her dog in Central Park. Christian Cooper took a video of the event on his phone. The video went viral. Senior executives made a serious decision at Franklin, says John Streur, CEO of Calvert Research & Management, the responsible investment company owned by Eaton Vance (EV). They must have thought through their attractiveness as an employer to a diverse population. They voted to demonstrate that these issues are important and serious. Better hiring practices are a critical element of human capital management, a pillar of environmental, social and governance (ESG) investing. Franklin Templeton demonstrated transparency and accountability, says Angela Chitkara, a researcher on the topic of diversity and inclusion. While many organizations including Franklin conduct bias training, even the most well-intentioned and well-heeled have biases, says Chitkara. Implicit bias training is not a luxury but essential. A spokesperson for Franklin Resources (ticker: BEN), the parent company of Franklin Templeton, didnt respond to a request for comment. Franklin Resources had assets under management of $599.4 billion at April 30, according to its website. Organizations including Google have been accused of rolling back their diversity and inclusion efforts, at the same time that people are recognizing the business imperative of diverse thinking. The lack of diversity and inclusion poses social risks to an organization which could impact your hiring practices, stock price, corporate reputation and the level of trust your stakeholders have in your brand and organization, Chitkara says. Amy Cooper represent[ed] Franklin Templeton as an employee and the brands values. If they kept her on as an employee, it would have spoken volumes about their brand and values. There is a strong business case for gender, ethnic and cultural diversity in corporate leadership, according to a recent McKinsey study. The most diverse companies outperform less diverse peers on profitability. Companies in the top quartile for gender diversity on executive teams were 25% more likely to have above-average profitability than companies in the fourth quartile. The findings were equally compelling in the case of ethnic and cultural diversity.",
+    "tokens": [
+      {
+        "text": "Franklin Templeton",
+        "start": 287,
+        "end": 305,
+        "token_start": 48,
+        "token_end": 49,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Amy Cooper",
+        "start": 273,
+        "end": 283,
+        "token_start": 44,
+        "token_end": 45,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Calvert Research & Management",
+        "start": 681,
+        "end": 710,
+        "token_start": 124,
+        "token_end": 127,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "John Streur",
+        "start": 661,
+        "end": 672,
+        "token_start": 119,
+        "token_end": 120,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 48,
+        "head": 44,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 124,
+        "head": 119,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "Several energy companies have responded to the death of George Floyd by circulating memos, publishing statements, and making donations. Those words are helpful, but they should be followed by meaningful action, experts say. A new organization called the Energy Diversity and Inclusion Council is launching on June 15. It seeks to be the premier D&I resource for the industry. Energy companies were among the cadre of corporations that sent memos to their staff and published statements in the wake of George Floyd's death on May 25. \"I find the events deeply upsetting, heartbreaking, and unacceptable,\" Gretchen Watkins, president of Shell's North American operations, said in an email to her employees reviewed by Business Insider. Statements like these are helpful, said Dennis Kennedy, founder of the National Diversity Council, a nonprofit dedicated to fostering diversity and inclusion (D&I) in the workplace. But the industry at large long known for its limited representation of women and black Americans still has a long way to go in its D&I efforts, he said. Some companies are further along than others, he added, but in general energy companies should focus on increasing community engagement and allocating more resources to D&I. About 8% of the energy industry workforce is black, according to a recent report by the nonprofit Energy Futures Initiative, while women make up between 23% and 32%. And a 2017 report from the University of Massachusetts, Amherst found that black oil and gas workers earned 23% less than white workers in comparable roles. There's also an important history to consider: Pollution from the oil and gas industry has disproportionately impacted black Americans. \"The energy industry is really challenged around diversity and inclusion,\" said Kennedy. \"That's unfortunate, but these organizations now have an opportunity to be inclusive.\" Click here to subscribe to Power Line, Business Insider's weekly energy newsletter. Kennedy is working on a new effort that could help. On June 15, he's launching a new organization called the Energy Diversity and Inclusion Council, which will provide training sessions and other consulting services for energy companies, largely in the oil and gas sector, around D&I. \"We seek to be the premier resource for D&I for the energy sector,\" he said. Initially, the council will operate under the auspices of the National Diversity Council, he said, but once the board is in place, the organization will become an independent nonprofit. Do you have a tip or story to share about diversity and inclusion in the energy industry? Reach out to energy@businessinsider.com. Duke Energy CEO Lynn Good is among the leaders who sent a note to her employees. Duke Energy Protests swept the nation this week in the days after the death of George Floyd, a black man who died shortly after a white police officer, Derek Chauvin, knelt on his neck for almost nine minutes as he gasped for air. The officer now faces charges for murder in the second degree. Floyd's death has fueled the global movement for racial justice. And corporate leaders won't do well by sitting on the sidelines, said Lanaya Irvin, president of the Center for Talent Innovation, a nonprofit that helps workplaces become more inclusive. \"There's an expectation for business leaders to be visible, vocal, and willing to use their access and power to renounce racism and injustice,\" she said. \"There is a risk to saying nothing because the world is watching.\" Silence is seen by some as apathy, no matter what sector they represent or where they're based, Irvin said. \"You're facing a country that's experiencing collective unrest, so it's really difficult to uphold the assertion that the outside world is not relevant,\" she said. This idea doesn't elude the largest energy corporations, many of which responded to Floyd's death this week. Shell, Chevron, Exxon, Duke Energy, Dominion Energy, and ConocoPhillips all responded to Business Insider's request for comment with some kind of statement or memo, while bp's chief shared what he wrote to his staff on LinkedIn. Of the seven responses, only two mentioned specific new actions. Five mentioned George Floyd by name and three mentioned Breonna Taylor or Ahmaud Arbery. Taylor, a black woman, was killed by police officers who entered her apartment, and Arbery, a black man, was shot by two white men while he was out for a jog. ",
+    "tokens": [
+      {
+        "text": "Shell's",
+        "start": 635,
+        "end": 642,
+        "token_start": 116,
+        "token_end": 116,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Gretchen Watkins",
+        "start": 604,
+        "end": 620,
+        "token_start": 111,
+        "token_end": 112,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "National Diversity Council",
+        "start": 805,
+        "end": 831,
+        "token_start": 146,
+        "token_end": 148,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Dennis Kennedy",
+        "start": 774,
+        "end": 788,
+        "token_start": 140,
+        "token_end": 141,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Duke Energy",
+        "start": 2641,
+        "end": 2652,
+        "token_start": 491,
+        "token_end": 492,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Lynn Good",
+        "start": 2657,
+        "end": 2666,
+        "token_start": 494,
+        "token_end": 495,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Center for Talent Innovation",
+        "start": 3182,
+        "end": 3210,
+        "token_start": 597,
+        "token_end": 600,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Lanaya Irvin",
+        "start": 3151,
+        "end": 3163,
+        "token_start": 591,
+        "token_end": 592,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 116,
+        "head": 111,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 146,
+        "head": 140,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 494,
+        "head": 491,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 597,
+        "head": 591,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "At a time when many Americans are wondering how they can use their power and privilege to help advance racial inclusion, equity, and justice, Reddits co-founder Alexis Ohanian just showed how its done. In a powerful gesture, on Friday the 37-year-old entrepreneur and husband of tennis champion Serena Williams announced he was stepping down from his role as a member of the board of directors of Reddit, and encouraged the company to replace him with a Black candidate. In addition, Ohanian, who founded the company with Steve Huffman 15 years ago, pledged to donate the future gains from his Reddit stock to causes that advance the Black community, including reducing racial hate, and an immediate pledge of $1,000,000 to Colin Kaepernicks Know Your Rights Camp. Ohanian shared his decision and rationale via Twitter and on his blog. As a father who needs to be able to answer his black daughter when she asks: What did you do? Ohanianian wrote. I believe resignation can actually be an act of leadership from people in power right now. To everyone fighting to fix our broken nation: do not stop. Ohanians resignation comes during a week in which Reddit already made news by releasing a letter to its employees that it was still working to address issues of content on its platform. Many people have criticized Reddit for being slow to address these challenges, including its former CEO, Ellen Pao, who accused the company of allowing certain forums which are referred to as subreddits to remain open places where alt-right beliefs and offensive statements have been regularly posted. Following Ohanians statement, Huffman, the companys current CEO posted a detailed statement addressing the resignation and upcoming content changes on the platform. In stepping down from the Board of Directors, Ohanian, who had already stepped back from his day to day leadership role in 2018, is creating a meaningful opportunity for the Reddit board of directors to diversify. Prior to his resignation, the board was all White and had only one woman. In that sense, Ohanians move to encourage the board to diversify is not only a welcome, but also an overdue move. Reddit, however, is not alone in having a board that lacks diversity. A recent study by the Alliance for Board Diversity, which advocates for greater diversity and inclusion in boardrooms, in partnership with professional services firm Deloitte, found that over 83% of all board positions in Fortune 500 companies where held by white people and only 8.6% of board positions were held by African American/Black individuals, with additional 3.6% of board positions being held by Latinx leaders. The report also found that Asian/Pacific Islander individuals held 3.7% of the board positions. Looking at an even larger samples size of companies, a June of 2019 report Institutional Investor Services (ISS) found that when looking at the Russell 3000, an index of the 3,000 largest U.S.-traded stocks representing about 98% of all U.S incorporated equity securities, only 10% of Russell 3000 directors currently belong to an ethnic minority group, while 15% of new directors are ethnically diverse. Over the past several weeks, countless companies, including those on the Fortune 500 and Russell 3000 lists, have released statements in support of the protests, racial justice, and the Black Lives Matter movement. But perhaps more than issuing statements, these companies need to take a long hard look at their board rooms and the individuals sitting around the table. The woeful underrepresentation of individuals from diverse backgrounds, as well as women, on corporate boards says a lot, and makes many other gestures of support seem hallow. As America grapples with its historic record of economic and racial injustice, particularly in light of the ongoing protests, addressing Americas ugly history of systemic racism wont be solved by the government. It will need to be solved by all of us. And for the nations business community, allyship to the Black community cant be about only press releases and donations. It needs to be about actions and that includes sacrificing power and privilege to create space for diverse leaders, particularly leaders from the Black, Latinx and Asian/Pacific Islander communities to be represented. By stepping down from the board of the company he co-founded to create space for a Black leader, Ohanian demonstrated the kind of leadership that puts actions above words. And in doing so, he has thrown down a challenge for other business leaders to follow will they too use their privilege to create opportunity for a more diverse and inclusive spectrum of corporate leadership? Lets hope so. Because as Alexis Ohanian just demonstrated, sometimes stepping down helps create a step in the right direction",
+    "tokens": [
+      {
+        "text": "Reddits",
+        "start": 142,
+        "end": 149,
+        "token_start": 27,
+        "token_end": 27,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Alexis Ohanian",
+        "start": 161,
+        "end": 175,
+        "token_start": 29,
+        "token_end": 30,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Reddit",
+        "start": 594,
+        "end": 600,
+        "token_start": 111,
+        "token_end": 111,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Steve Huffman",
+        "start": 522,
+        "end": 535,
+        "token_start": 97,
+        "token_end": 98,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Reddit",
+        "start": 1313,
+        "end": 1319,
+        "token_start": 245,
+        "token_end": 245,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Ellen Pao",
+        "start": 1390,
+        "end": 1399,
+        "token_start": 259,
+        "token_end": 260,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 29,
+        "head": 27,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 111,
+        "head": 97,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 259,
+        "head": 245,
+        "relationLabel": "managerOf"
+      }
+    ]
+  }
+]

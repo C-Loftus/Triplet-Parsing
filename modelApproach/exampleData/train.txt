@@ -1,0 +1,1659 @@
+[
+  {
+    "document": "We all have a responsibility to stop the systemic oppression and killing of Black people in our country and our communities. At this moment, it is particularly important to support and amplify the individuals and organizations leading this work. We have put together a list of resources that highlights some of these organizations and helps you learn more about actions we can take to change the larger societal injustices that must be addressed before any meaningful change can occur. Our friends at Row New York have also curated a list of mental health resources, educational materials about anti-racism, and ways to take action. You can find those resources here. We also hear your calls for change within the rowing community specifically and hope that we can help. Both of our organizations are committed to actively increasing access to and diversity in the sport of rowing. The systems that have kept rowing a predominantly White space are the same ones that continue to oppress Black communities and other communities of color in all areas of life. These systems must change. Our sport must change. We challenge you to do more than show support. We challenge you to take action. We acknowledge that our organizations are not perfect. We still have room to improve and need to improve. Below is our advice based on our first-hand experience of what has worked for us. Our organizations have come together to suggest strategies you can use to make your boathouse a safer and more welcoming space for Black athletes and other athletes of color. We hope you find them useful and are able to put them into action. 8 Ways to Take Action and Make Your Boathouse More Inclusive What groups of people are missing or underrepresented in your membership? Who lives, works, and recreates in the area near your boathouse? For scholastic and collegiate programs, compare the student body to your team. Understand why it is important to have a diverse and representative membership. Consider what message you are sending people in and outside your club? How does a lack of diversity affect the long-term sustainability of your organization and the sport? How does it affect your members and your neighborhood? 2. Make anti-racism, diversity, and inclusion a priority of your organization. Build consensus around the need for changes and take action to make your club more equitable and inclusive. Make changes to your mission, programs, and practices. Simply adopting a diversity and inclusion policy isn't enough. Starting the conversation about diversity and inclusion 3. Create a culture of respect and anti-racism that is welcoming to all. Educate yourself about the unique challenges faced by rowers of color, and work to ensure they have the same positive experience and opportunity to succeed as other athletes in your club. When new athletes join your club introduce yourself. Smile. Be friendly. How to be trauma-sensitive and responsive in your coaching 4. Provide educational workshops and professional development opportunities for staff and members focused on inclusion, integration, cultural diversity, and cultural competence. Hold one another accountable for advancing these issues. Do not tolerate discrimination, disrespect, or exclusionary behavior. Instances of overt and covert racism should be taken seriously and addressed promptly. Learn from other sports. Stress the importance of this education to your staff and club members. Integrate what you learn into the values, goals, and practices of your club. 5. Create opportunities for people without rowing experience to learn to row and become members of your club and the broader rowing community. Direct your outreach to communities that are under-represented in your club. Appoint a community outreach and inclusion representative (paid or volunteer) to focus on ways to engage the broader community in rowing. This person does not need rowing experience, just an understanding of the community you're trying to reach and a passion for what you're trying to accomplish. Consider ways to eliminate or reduce the barriers to entry. For students, barriers can include transportation, gear, and swimming lessons. Ladder of Youth Participation (this example shows how to build inclusive and empowering programs for young people, but the same principles can be applied to other groups.) 6. Make your programs more economically accessible by creating a scholarship fund, or by providing free or discounted access to your existing programs to individuals from racial or ethnic groups that are under-represented in your club. Reduce the upfront costs of membership by eliminating initiation fees and creating monthly or quarterly payment programs. An overview of the \"pay to play\" issue affecting youth sports on a broader level 7. Hire coaches and staff of color. Support initiatives that help build a pipeline of highly qualified coaches of color. Positions need not be limited to candidates with prior rowing experience, which can be a systemic barrier to otherwise qualified candidates ( eg  strength and conditioning coaches, fundraising professionals, accountants, etc ). The rowing community is missing out by not broadening its horizons. People should understand that due to systemic racism in rowing, prior rowing experience limits the pool of applicants, depriving organizations of different perspectives, role models for younger athletes, etc  Practical Ways to reduce bias in your hiring process 8. Don't stop short of the finish line! Continue to educate yourself and work to dismantle systemic racism in and outside the rowing community. These topics are constantly evolving and it is not the responsibility of people of color to educate you. The rowing community must put in the work. The project was a collaborative effort between the Philadelphia City Rowing staff, board of directors, student-athletes, alumni, and other athletes of color who volunteer with PCR and Row New York. The notable staff of PCR and Row NY who helped coordinate this collaboration include PCR Executive Director Caitlin Mance (Cornell '08), PCR Board Member Catherine Reddick (Penn '04), and Row New York Executive Director Rachel Cytron (Penn '94). Photos by Madeline Kuntz, Claudia Loeber, and Will Pew.",
+    "tokens": [
+      {
+        "text": "PCR",
+        "start": 6045,
+        "end": 6048,
+        "token_start": 1065,
+        "token_end": 1065,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Caitlin Mance",
+        "start": 6068,
+        "end": 6081,
+        "token_start": 1068,
+        "token_end": 1069,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "PCR",
+        "start": 6097,
+        "end": 6100,
+        "token_start": 1076,
+        "token_end": 1076,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Catherine Reddick",
+        "start": 6114,
+        "end": 6131,
+        "token_start": 1079,
+        "token_end": 1080,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Row New York",
+        "start": 6148,
+        "end": 6160,
+        "token_start": 1088,
+        "token_end": 1090,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Rachel Cytron",
+        "start": 6180,
+        "end": 6193,
+        "token_start": 1093,
+        "token_end": 1094,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 1068,
+        "head": 1065,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 1079,
+        "head": 1076,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 1093,
+        "head": 1088,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "Facial recognition and controversy around the technology were the theme common to most of the past weeks top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI. Mastercards certification of fingerprint payment card technology remains our top story for the second week in a row, emphasizing the importance of payment card certification to the biometrics industry. The deadline for biometric registration for SIM cards in Tanzania is looming, and the rush to avoid a widespread loss of network access is beset with confusion and complications, as explained in our wrap of identity news from around Africa. Chinese surveillance technology companies were prominent at Intersec 2020, and Indian government agencies are enthusiastically adopting surveillance tech for identity recognition, supporting a forecast from Adroit Market Research that facial recognition will be a $12 billion industry by 2025. Lawsuits related to facial recognition and the Biometric Information Privacy Act (BIPA) of Illinois generated a pair of the top stories of the week on Biometric Update, but each with a twist on the all-to-common stories of arguments about standing and breaches of informed consent rules. Clearview AI has managed to somehow further worsen public anxiety about biometrics and data privacy, and along with IBM has been slapped with a BIPA suit over image acquisition practices. Both companies scraped images from social media to train facial recognition, but IBM did so to address the demographic disparities found in most facial biometric algorithms, while Clearview seems not to have had such a laudable intention. The potential multi-billion dollar class action against Facebook, meanwhile, has been settled for $550 million, soon after losing a bid to have the Supreme Court hear an appeal. Stock in the social media fell in response, and the announcement was reported to be surprising to many, but the company plans to put the incident behind it. The reaction of New Jerseys Attorney General to the evolving Clearview scandal was also among the to widely-read stories of the week, as they barred law enforcement agencies in the state from working with the company, around the same time as Massachusetts Senator Edward Markey wrote the company to ask what U.S. law enforcement agencies are its customers. Security expert Bruce Schneier writes in a well-reasoned New York Times opinion piece that ubiquitous mas surveillance is already upon us, and some privacy advocates are not fighting the data protection battle that really matters. These efforts are well intentioned, but facial recognition bans are the wrong way to fight against modern surveillance, Schneier writes. Focusing on one particular identification method misconstrues the nature of the surveillance society were in the process of building. Azeem Azhar writes for Exponential View about why tech companies are now calling for regulation of AI and facial recognition. He comes to a similar conclusion about facial recognition to Schneier, saying taking a popular stance on such an emotive issue may help it avoid tough questions. The European Union has backed away from the idea of a ban on the use of facial recognition in public spaces, though the blocs Artificial Intelligence strategy is expected to mandate clear criteria for such uses of the technology. The ban the EU considered was never that likely, according to GlobalData Thematic Research Senior Analyst Laura Petrone, who writes for NS Tech that a moratorium was only ever one of several options on the table, and GDPR applies to facial recognition already. As the EU was making its decision, the U.S. and China were urged to avoid arms race logic to keep AI, surveillance, and biometric from combining to create digital dictatorships and other disasters by the historian and philosopher Yuval Harari at Davos, as Axios reports. Advances in augmented reality could breathe new life into the smart glasses wearable category, according to InCyberDefense.com, and the market has changed a lot since Google introduced its prototype in 2013. The many companies offering facial biometrics for the less controversial applications around onboarding and remote authentication may be attempting a risky market strategy, according to a new white paper from Acuity. The face recognition market is ripe for disruption, Acuity says. Also this week, a deep dive into facial recognition by The California Sunday Magazine which begins with an account of the technologys early days, and an explanation by Dr. Joseph Atick and NECs Benji Hutchinson of how it actually works. It continues with an attempt at a balanced account of where we are today. The importance of layering other technologies, such as behavioral biometrics, on top of physical biometrics is explained by Experian VP of Industry Solutions for Global Fraud and Identity David Britton in a recent interview. Britton also explains the impact of the expansion of networks and data on the threat landscape, as well as opportunities to win consumer trust. Veridium Chief Revenue Officer Jason Tooley writes in a well-read guest post that the role of biometrics in authentication is set to shift from a shortcut in a password-based system to providing a whole new level of security. The layering of other technologies with biometrics for robust solutions is also discussed by Tooley. Persona CEO and Co-founder Rick Song discussed his companys $17.5 million Series A funding round with Biometric Update by email this week, as it attempts to build the internets identity layer. As most of America takes in the Super Bowl, Valid Director of Identity Programs and Product Management Kevin Freiburger discusses the progress of biometric systems for fan convenience and security at arenas and large events in a guest post. Australias new National Digital Identity system is coming online, but is hardly a guaranteed success, according to The Conversation. The public does not have a full understanding of digital ID, and the country chose a federated system significantly different from those adopted by Canada and Switzerland, which hew closer to self sovereign identity (SSI) principles. To help people better understand the data they should consider keeping private, University of Toronto Engineering News provides a primer on biometric data just in time for Data Privacy Day on January 28. The next entry from Yotis Digital Identity Fellow Subhashish Panigrahi has been published by the company, with initial findings from 20 interviews with a range of people with different stakes in the success of the Indias Aadhaar program. The interviews suggest that the linguistic diversity of India and the risk associated with linking many databases are among challenges which might have been foreseen, but are still dogging the program. ZenGo CEO Ouriel Ohayon has responded to a brief Twitter flame blast from a competing wallets chief executive, who questioned how facial recognition could be more secure than a 12-word phrase, with a blog post. The competitor attempted, Ohayon says unsuccessfully, to recover a wallet using pictures from Instagram to prove the systems lack of security. The company invites people to test the technology, powered by FaceTec, for themselves. Please let us know of any stories, articles, or other content you would like to share with the biometrics and digital identity communities through the comments below or the usual channels",
+    "tokens": [
+      {
+        "text": "GlobalData",
+        "start": 3563,
+        "end": 3573,
+        "token_start": 607,
+        "token_end": 607,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Laura Petrone",
+        "start": 3607,
+        "end": 3620,
+        "token_start": 612,
+        "token_end": 613,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Davos",
+        "start": 4008,
+        "end": 4013,
+        "token_start": 687,
+        "token_end": 687,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Yuval Harari",
+        "start": 3992,
+        "end": 4004,
+        "token_start": 684,
+        "token_end": 685,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Global Fraud and Identity",
+        "start": 4996,
+        "end": 5021,
+        "token_start": 857,
+        "token_end": 860,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "David Britton",
+        "start": 5022,
+        "end": 5035,
+        "token_start": 861,
+        "token_end": 862,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Veridium",
+        "start": 5203,
+        "end": 5211,
+        "token_start": 894,
+        "token_end": 894,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Jason Tooley",
+        "start": 5234,
+        "end": 5246,
+        "token_start": 898,
+        "token_end": 899,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Persona",
+        "start": 5530,
+        "end": 5537,
+        "token_start": 949,
+        "token_end": 949,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Rick Song",
+        "start": 5557,
+        "end": 5566,
+        "token_start": 953,
+        "token_end": 954,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Valid",
+        "start": 5767,
+        "end": 5772,
+        "token_start": 992,
+        "token_end": 992,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Kevin Freiburger",
+        "start": 5826,
+        "end": 5842,
+        "token_start": 1000,
+        "token_end": 1001,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Yotis Digital Identity",
+        "start": 6555,
+        "end": 6577,
+        "token_start": 1125,
+        "token_end": 1127,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Subhashish Panigrahi",
+        "start": 6585,
+        "end": 6605,
+        "token_start": 1129,
+        "token_end": 1130,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "ZenGo",
+        "start": 6975,
+        "end": 6980,
+        "token_start": 1194,
+        "token_end": 1194,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Ouriel Ohayon",
+        "start": 6985,
+        "end": 6998,
+        "token_start": 1196,
+        "token_end": 1197,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 612,
+        "head": 607,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 687,
+        "head": 684,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 861,
+        "head": 857,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 898,
+        "head": 894,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 953,
+        "head": 949,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 1000,
+        "head": 992,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 1129,
+        "head": 1125,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 1196,
+        "head": 1194,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "High Standards for Diversity and Inclusion is required in Higher Education GREAT FALLS, MT, UNITED STATES, June 6, 2020 / EINPresswire.com / -- At Apollos we take diversity and inclusion seriously . In our dynamic learning environment, we embrace diversity of students, faculty, staff, and ideas. Our highly qualified students, faculty, and staff with their diverse backgrounds, and experiences create a rich and practical learning environment for all Apollos community members. Apollos has been at the forefront of innovation and meeting the needs of diverse learners through flexible, affordable, and accredited education for all that strive for personal and professional excellence.Most U.S. brick and mortar colleges and universities have a Chief Diversity Officer or VP for Diversity and Inclusion. Most accredited online colleges or universities do not have a designated person for this role. Apollos is proud to be one of the very first and online/hybrid universities to embrace this role and has done so since 2011.The Apollos commitment to recruit and retain the best students, faculty, and staff, regardless of race, color, religion, sex, age, disability, national origin, ancestry, sexual orientation, gender identity, marital status, parental status, veteran status, or military status led the university board of directors and leadership to appoint a Chief Diversity Officer (CDO). Apollos is among the first online universities to recognize the importance of this role to ensure fairness, quality assurance and inclusion across all areas of our learning environment and university as a whole. Though it is not mandated for accreditation or by the U.S. Department of education, Apollos recruited our first Vice President/Chief Diversity Officer from our faculty early in our university history. Diversity and inclusion has been a vital component to Apollos's founding, continued growth, sustainability, and degree program development. Dr. Young stated, As the Vice President/Chief Diversity Officer for Apollos University, I would like to welcome you to join the Apollos family as a student, faculty, or staff member. We aim to meet and/or exceed your higher education, fairness, and inclusion expectations.",
+    "tokens": [
+      {
+        "text": "Apollos University",
+        "start": 2016,
+        "end": 2034,
+        "token_start": 356,
+        "token_end": 357,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Young",
+        "start": 1952,
+        "end": 1957,
+        "token_start": 344,
+        "token_end": 344,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 356,
+        "head": 344,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "FRAMINGHAM, Mass. & DUBLIN--(BUSINESS WIRE)--Workhuman, a leading provider of human applications and the worlds fastest-growing integrated social recognition and continuous performance management platform, today announced New York Times bestselling author and world-renowned business thinker Daniel Pink as a keynote speaker for its Workhuman Live 2020 conference, May 11-14, in San Antonio, Texas. The annual Workhuman Live conference celebrates the power of humanity in the workplace to energize cultures, unlock human potential, and unite workforces around a shared purpose. The conference has grown over six times in size since the inaugural event in 2015. Previous years have seen highly influential thought leaders and visionaries take the stage at the conference, including former first lady Michelle Obama, actors George Clooney, Viola Davis, and Geena Davis, activists Amal Clooney and Tarana Burke, and award-winning authors Bren Brown, Simon Sinek, Adam Grant, and Shawn Achor. At Workhuman Live 2020, attendees ranging from HR directors and managers to CEOs, CHROs, CIOs, and CFOs can explore business trends, learn about compelling HR issues, and discuss the biggest trends and topics impacting the modern workplace. Speakers will cover eight main content tracks including The Gratitude Effect, Authentic D&I, The Future of Leadership, and The Work-Life Blend, and discuss topics such as the power of recognition, overcoming biases, parity and equality in the workplace, establishing workplace cultures of collaboration and respect, and the future of work. Daniel has changed the way companies view the modern workplace and the future of work through his books about business and behavior, said Eric Mosley, CEO of Workhuman. His actionable advice and teachable moments have motivated thousands of people over the years to achieve personal and professional goals, and we know hell have the same impact on attendees of Workhuman Live 2020. Pink is the author of six provocative books  including his newest, When: The Scientific Secrets of Perfect Timing, which spent four months on the New York Times bestseller list. His other books include the long-running New York Times bestseller A Whole New Mind and the #1 New York Times bestsellers Drive and To Sell is Human. His books have won multiple awards, been translated into 39 languages, and sold 3 million copies worldwide. Pinks TED Talk on the puzzle of motivation is one of the 10 most-watched TED Talks of all time, with more than 24 million views. Purpose is one of the biggest motivators in the workplace, said Pink. But purpose isnt just about changing the world or doing something deeply significant and transcendent, its about doing something that matters and gets noticed by your co-workers and colleagues. My keynote at Workhuman Live 2020 will help attendees connect organizational and personal purpose and unlock motivational power that drives success. For more information about the upcoming Workhuman Live conference or to register as an attendee, please visit www.WorkhumanLive.com. Workhuman helps forward-thinking companies energize their cultures, unlock their employees passion and potential, and unite their workforce around a shared purpose. With the worlds fastest-growing social recognition and continuous performance management platform, our mission is to lead the movement to celebrate the power of humanity in the workplace through gratitude and peer-to-peer recognition. Workhuman Cloud, a suite of human applications, uncovers provocative workplace data and human insights, delivering tangible results powered by our core belief  the more motivated and valued employees are, the more they can perform the best work of their lives. Workhuman (formerly known as Globoforce) was founded in 1999 and is co-headquartered in Framingham, Mass., and Dublin, Ireland.",
+    "tokens": [
+      {
+        "text": "Workhuman",
+        "start": 1728,
+        "end": 1737,
+        "token_start": 307,
+        "token_end": 307,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Eric Mosley",
+        "start": 1708,
+        "end": 1719,
+        "token_start": 302,
+        "token_end": 303,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Framingham",
+        "start": 3812,
+        "end": 3822,
+        "token_start": 658,
+        "token_end": 658,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "Workhuman",
+        "start": 3724,
+        "end": 3733,
+        "token_start": 643,
+        "token_end": 643,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Dublin",
+        "start": 3835,
+        "end": 3841,
+        "token_start": 664,
+        "token_end": 664,
+        "entityLabel": "LOC"
+      }
+    ],
+    "relations": [
+      {
+        "child": 307,
+        "head": 302,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 658,
+        "head": 643,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 664,
+        "head": 643,
+        "relationLabel": "locatedAt"
+      }
+    ]
+  },
+  {
+    "document": "There has been great unrest in the U.S. following George Floyd's senseless death and violent protests that have erupted as a result. Our current environment can certainly be an overwhelming subject for parents to tackle. However, the kids' books below handle subjects like race and equality with grace, offering a perfect starting point for moms and dads. For reading recs that celebrate diversity, acceptance and love, have a look below. This story from National Book Award-winning author Ibram X. Kendi guides you and your little reader through nine easy steps that will help build a more equitable world. The cheerful and positive book is the tiny-tyke adaptation of Kendi's groundbreaking How To Be an Antiracist. Ages 3 and under. ($8.99) This picture book by the Principle Dancer with the American Ballet Theater tells the story of young Misty, who fell in love with dance. Ages 5-8. ($17.99) The Case for Loving: The Fight for Interracial Marriage by Selina Alko At one time, it was illegal to marry somebody from another ethnic background. This tells the story of Mildred and Richard Perry Loving, whose marriage challenged the laws all the way to the Supreme Court. Ages 8 and under. ($29.95) One little boy is taunted for having darker skin and curlier hair than his classmates. However, his mother helps him realize that he's perfect just the way he is. Ages 48. ($7.99) Embrace the waves! Curlee Girlee is all about feeling empowered by those unique features and characteristicsincluding strands of curls. Ages 38. ($13.99) The Harvard professor and PBS host Henry Louis Gates Jr. explains how the Reconstruction period that followed the Civil War led to Jim Crowand an enduring racism that still exists today. Ages 9-12. ($12.99) Different Differenter: An Activity Book about Skin Color by Jyoti Gupta Tackling the topics of identity and skin color, Gupta's activity bookwhich includes history lessons, art instructions, and recipes, among other things to doapproaches the subject in an easy way for children to digest. Ages 58. ($24.50) The Night is Yours by Abdul Razak-Zachariah A game of hide-and-seek becomes a poetic story about Blackness, self-confidence, love and community. Ages 3-7. ($17.99) Not My Idea by Anastasia Higginbotham A mother tries to explain why some people are attacked for the color of their skin to her daughter in Not My Idea in this book addresses civil responsibility. Ages 812.($18.95) Other Words for Home by Jasmine Warga Jude moved from Syria to Cincinnati, and at first everything is confusing: America is fast, and loud, and different. Plus, she's told she's \"Middle Eastern,\" a strange identity she didn't know existed. Will she accept her new home, and will her new home accept her? Ages 8-12. ($16.99) The King of Kindergarten by Derrick Barnes Kindergarten is going to be great! This life-affirming story from Newbery Honor-winning author Derrick Barnes is about a school where differences are celebrated. Ages 36. ($17.99) Same, Same But Different by Jenny Sue Kostecki-Shaw Two pen pals on opposite ends of the worldElliot from the US and Kailash from Indialearn about each other through notes and photos. Though the boys hail from different backgrounds, they discover they have a lot in common despite cultural differences. Ages 47. ($18.99) This picture book tells the story of Shirley Chisholm, the first Black woman in Congress. This brightly-illustrated celebration of her life coversChisholm's younger years, her time in the House of Representatives, her candidacy for President and her lasting legacy. Ages 4-8. ($18.99) The Skin You Live In by Michael Tyler This sweet picture book might be designed for little readers, but it tackles big messages, including the importance of acceptance, diversity and friendship. Through a showcase of children's activities from around the globe, youngsters learn to love the world around them for all of its similarities and differences. Ages 48. ($14.95) Sulwe has darker skin than anyone she knowsher family, her classmates. She longs to be \"bright,\" but one life-changing journey into the night sky proves how beautiful she is in her own skin. Ages 48. ($17.99) Most popular on Time Out - Disney's free drawing classes teach you how to sketch your favorite princesses - Tour the real-life locations of Harry Potter's world with Google Earth - Celebrate the 100th birthday of Denos Wonder Wheel with a free coloring book - New York's kiddie salons share advice on how to cut your child's hair at home - Best family restaurants in NYC doing delivery Sign up to receive great Time Out New York Kids deals in your inbox each day.",
+    "tokens": [
+      {
+        "text": "Harvard",
+        "start": 1540,
+        "end": 1547,
+        "token_start": 296,
+        "token_end": 296,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Henry Louis Gates Jr.",
+        "start": 1571,
+        "end": 1592,
+        "token_start": 301,
+        "token_end": 305,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "PBS",
+        "start": 1562,
+        "end": 1565,
+        "token_start": 299,
+        "token_end": 299,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "NYC",
+        "start": 4531,
+        "end": 4534,
+        "token_start": 865,
+        "token_end": 865,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "Denos Wonder Wheel",
+        "start": 4377,
+        "end": 4395,
+        "token_start": 836,
+        "token_end": 838,
+        "entityLabel": "ORG"
+      }
+    ],
+    "relations": [
+      {
+        "child": 301,
+        "head": 296,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 301,
+        "head": 299,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 865,
+        "head": 836,
+        "relationLabel": "locatedAt"
+      }
+    ]
+  },
+  {
+    "document": "In January of this year, the poet Roger Robinson, whom Ive known since we were on the same poetry circuit in the nineties, won the UKs most prestigious poetry prize, the T S Eliot Award for Poetry for his latest poetry collection, A Portable Paradise. He is the first black British person to win it, the second black man to win it, and the fourth person of colour to win the Prize since its inception in 1993. I was overjoyed at his success, in some ways mirroring my own Booker Prize win last year, as both of us have been treading the boards of literature for decades and these awards have suddenly brought our writings to the fore. Rogers poetry collection is exactly the kind of book we need out there as British society is forced to register the prevailing inequalities on these shores through the resurgence of the Black Lives Matter movement. Rogers poems range from the tragedy of Grenfell Tower to the premature birth of his son. Through sharing his interior self as an individual black British man with Caribbean origins, we connect to his humanity and appreciate his vulnerabilities, vision, experiences, sensitivities and points of view. When America went up in flames at the murder of George Floyd, it was the tip of the poisonous iceberg of systemic racism and police brutality rooted in the historic de-humanisation of African-Americans. If we time-travel all the way back to the beginnings of the transatlantic slave trade, history shows us that racism as an ideology was developed to justify the trade in Africans to the New World. If Africans were regarded as only semi-human, more ape than man, actually, then putting them to work like beasts of burden for no pay for centuries, couldnt be considered a moral crime. Sadly, we live with the legacy of this ideology today, buried deep, or perhaps not so deeply, inside the psyche of those who perpetuate a racist status quo. Like Roger, I am passionate about broadening the narrative of who we are in Britain. In my novel Girl, Woman, Other, the twelve interconnected primarily black womxn are aged 19 to 93 and span a range of sexualities, classes, cultural backgrounds, occupations and family relationships. My motto has long been to put presence into absence and black British women in particular tell me that they feel seen by this novel, while all kinds of other people have told me that theyve gained insight into some of our life stories and experiences in this country, and also empathise with the characters, and even relate to them. Its really brought home to me the way in which literature can connect us to each other and foster and express our shared humanity. Our experiences in this country might be specific, but through art we can interrogate universal truths about what it means to be human. This is why its so important for our arts, culture and society to be inclusive of everyone. It has always been so easy for Brits to feel morally superior in the face of the scale of Americas globally amplified racial dramas, and to ignore our very own iniquities, which tend to be more perniciously subtle, but which are no less pervasive. One consequence of this current second-wave Black Lives Matter movement is an unprecedented degree of public soul-searching by white people here in the UK, who express a desire to read books by black authors in order to educate themselves. If intention is followed by action, then engaging with some of the recent titles by black British authors will surely have a transformative effect on the reader. I recommend Sensuous Knowledge by Minna Salami, which offers a radical revisioning of feminism through an Africanist perspective; No Win Race by Derek Bardowell, about race and sport; Brit(ish) by Afua Hirsch, explores race, identity and belonging; Afropean: Notes From Black Europe is by Johny Pitts, who takes us on his travels across black Europe over ten years; Black, Listed, by Jeffrey Boakye is a witty lexical exploration of black British culture; Taking up Space: The Black Girls Manifesto For Change is a series of essays edited by Chelsea Kwakye and Ore Ogunbiyi, about the experiences of women of colour in majority white universities; and Forced Out by Kevin Maxwell, is a hot-off-the-press and shocking account of his career as a black, gay police detective in the UK police force. There are some more books, although together they still constitute a tiny percentage of the market. Unfortunately, novels are currently lagging behind non-fiction. My Booker win and the success of a handful of others shouldnt be taken to mean that the battle is won. Far from it. Each year, novels published by black British writers barely enter double figures. It is a longstanding problem. We know that people who read fiction are more empathetic because they are well-practised in stepping into the shoes of fictional characters who are different from themselves. This is not to say that novelists write to educate people, but we do accept that this might be a byproduct of our creative endeavours. As novelists, we envision the intimate realities of our characters, try to capture the essence of who they are, test their inner strength through which they grow and transform during the course of the story. The best writers create characters from a place of compassion and insight, because we are all multi-faceted beings with strengths and weaknesses and everything in between. Fiction is therefore an incredibly effective way of delving into human psychology and behaviour and thereby deepens our understanding of each other. How sad and troubling, then, that were not seeing more novels that speak to our demographic realities. Conversely, fiction that adheres to stereotypes of blackness or which play out the well-worn tropes of suffering and victimhood are not useful. We are not here to be pitied, problematised, pathologised. Literature has the power to accentuate our humanness and transcend perceived differences, especially in the face of assumptions based on stereotypes, which for black men in public spaces is that they are dangerous criminals, probably muggers, regardless of all visual evidence declaring otherwise. It goes without saying that the industry needs to publish more novels from our communities and at this stage it really shouldnt need diversity campaigns to do so. Nor should the industry ask us what to do any more, to sit on diversity panels with other people of colour talking to an audience of people of colour none of whom can change the industry from the outside. Ive been on these panels for some twenty years and Im not doing any more. The economic, cultural, creative and moral argument for diversity was won a long time ago. Its blindingly obvious that literatures gatekeepers are the ones to change their culture of exclusion, and many of us are fed up of being asked for solutions to systemic racism when we are not the perpetrators of it. Were open to conversations, but why are they always so one-sided? Its rather like someone shutting the door in your face and then asking you to peer through the letterbox in order to explain to them why you feel left out and to tell them what they can do about it. Any action plan worth its salt needs to offer practical steps to ensure the industry reflects our society, without resorting to tokenism. Putting out a feel-good press release or tweet that promises a change that is never delivered is not good enough. And weve had enough of the culture of one-seat-at-the-table, the lone voice struggling to be heard. Top-down inclusion and true integration, from the boardroom to the basement, is the only way to go. For the few black men who do publish, and to be honest, most are not receiving the same attention as their female counterparts right now, well, we need to celebrate their achievements and make sure their art does not go unsung. Rainbow Milk by Paul Mendez is a good place to start: an infectiously exuberant and daring coming-of-age novel about a young, black, gay man who flees his community of Jehovahs Witnesses in the Black Country to make his way in London. From veterans such as myself and Roger Robinson, to the new kids on the block, like Paul Mendez, lets make our literary culture one that foregrounds the stories of all its citizens. Good literature from everyone by everyone for everyone should be the guiding principle for the industry. Bernardine Evaristo is professor of creative writing at Brunel University London.",
+    "tokens": [
+      {
+        "text": "Brunel University London",
+        "start": 8423,
+        "end": 8447,
+        "token_start": 1572,
+        "token_end": 1574,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Bernardine Evaristo",
+        "start": 8367,
+        "end": 8386,
+        "token_start": 1564,
+        "token_end": 1565,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 1572,
+        "head": 1564,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "Putting diversity, inclusion and belonging on hold could be the biggest mistake companies could make right now. (Getty) The coronavirus pandemic has led to an unprecedented moment in history where businesses across the world are trying to navigate a new world of work and a transformation of industry that will never be the same again. During time of crisis, companies look at areas to cut back on in order to help shore up balance sheets and keep the firm operational and functionally liquid as possible. Unfortunately, that has sometimes led to training and investment in staff, including diversity and inclusion efforts, being axed. Gathering for a DIAL Global Digital Summit, where Verizon Media is a strategic partner, leaders at the worlds largest organisations discussed how companies can lead and win through inclusion and how organisations can craft better inclusion strategies for a competitive edge. In the fourth session, entitled Winning hearts and minds through diversity, inclusion and belonging and ensuring this remains core to all levels of business and wider society, D&I leaders from global businesses discussed why now is not the time to put diversity, inclusion and belonging on hold and the potential consequences if we did. READ MORE: How coronavirus has surged advertising spend in this one area In fact, this could be the biggest mistake companies could make right now. Diversity and inclusion has long-term gain. We are way beyond justifying it or whether we should or shouldnt be doing D&I initiatives. It is not an option anymore. Those who are having that debate are going to be left behind, said Karina Govindji, director, diversity, equity & inclusion EMEA, Google (GOOG). For many, its moving into action and that progress to be accelerated or sustained means we have to think of this as not just business critical, but life critical. Govindji used examples from author Caroline Criado Perezs book Invisible Women, where lack of diversity at the decision-making table has led to lives at risk. For example, women tended to be more adversely affected by car crashes because the airbag technology was more geared to a mans body than a womans body. Sarah Churchman, chief inclusion, community & well-being officer, PwC and Emily Heath, diversity & inclusion lead, Verizon Media (VZ) and One Young World Ambassador also joined Govindji on the panel where they discussed the longer term sustainable opportunities versus the short-sighted game and how can we ensure D&I continues to receive the support it needs. When you put people as the main part of your long-term strategy for the company, putting people into the heart of the organisation, youre winning right now, said Heath from Verizon Media, the parent company of Yahoo Finance. It has be to through a multi-faceted approach it isnt just down to the D&I part of the business. While it may start there, for some, its about building it into you business, being part of your product and how it reaches the end consumer. Its building for the world we live in and represent the diversity of your customers. PwCs Churchman echoed both Heath and Govindji and said that organisations have got to think hard why they prioritised D&I pre-COVID. Those reasons should not fall off the agenda and the need for it will not go away. She said what we do know is that we cant go back in time and we need different people with different skillsets and experiences to lead to innovation. When it comes to moving companies forward in this space, all the panellists agreed that there needs to be more embedding of D&I into every day work and greater allyship. We need to make sure that D&I efforts are part of leaders agendas and is part of everyones jobs not just for the people functions, said Govindji. We need to keep building in formalising allyship and building empathy from leaders in order to support those in already marginalised groups. They may not have the same experience as them or identify as part of their groups but they should have the consciousness as an ally of how can I step into those shoes to help those who have a disproportionate [negative] experience. Heath added: We need to have organisational empathy and have courageous conversations.",
+    "tokens": [
+      {
+        "text": "Google",
+        "start": 1690,
+        "end": 1696,
+        "token_start": 306,
+        "token_end": 306,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Karina Govindji",
+        "start": 1627,
+        "end": 1642,
+        "token_start": 294,
+        "token_end": 295,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "PwC",
+        "start": 2245,
+        "end": 2248,
+        "token_start": 410,
+        "token_end": 410,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Sarah Churchman",
+        "start": 2179,
+        "end": 2194,
+        "token_start": 399,
+        "token_end": 400,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Verizon Media",
+        "start": 2294,
+        "end": 2307,
+        "token_start": 420,
+        "token_end": 421,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Emily Heath",
+        "start": 2253,
+        "end": 2264,
+        "token_start": 412,
+        "token_end": 413,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "One Young World",
+        "start": 2317,
+        "end": 2332,
+        "token_start": 426,
+        "token_end": 428,
+        "entityLabel": "ORG"
+      }
+    ],
+    "relations": [
+      {
+        "child": 306,
+        "head": 294,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 410,
+        "head": 399,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 420,
+        "head": 412,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 426,
+        "head": 412,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "THE University of Bradford is celebrating the inclusion of two of its professors in a new photographic exhibition to highlight the presence and excellence of Black female academics. The exhibition held in London in March provides a platform for debate about what it takes to reach this highest level of academic scholarship by female black and minority ethnic academics. Phenomenal Women: Portraits of UK Black Female Professors showcases 40 black female professors who are either working now or have worked in the last three years across the UK - and two from that list currently work in Bradford. Professors Uduak Archibong and Engobo Emeseh said they were proud to be included. Uduak Archibong MBE is Professor of Diversity in the Faculty of Health Studies, Director of the Centre for Inclusion and Diversity and provides strategic oversight for equality, diversity and inclusion across the institution. She is a foremost authority and leader on inclusion and diversity. She is currently setting the agenda to drive research, learning and knowledge exchange in enhancing workforce diversity and inclusive service delivery. Her work is having a major impact locally, nationally and globally. The body of her research has provided the evidence base for, and a robust understanding of, the development and application of cultural solutions and diversity interventions in public, private and third sector organisations. She is Fellow of the West African College of Nursing and Fellow of the Royal College of Nursing and was made a Member of the Order of the British Empire (MBE) in the 2015 Queens New Years Honours List for her services to higher education and equality. She said: The Phenomenal Women exhibition showcases the hard work, resilience and success of black female professors in the UK. People will look at this and see hope. It is about changing perceptions of what a professor looks like and creating role models for future generations. In addition, it highlights the intersectionality of race and gender. There is a feeling that we have been in this struggle for a long time and while the numbers are increasing, we need to ask why the journey is so slow and how we can agitate the system to make it quicker. But this is a step in the right direction. Engobo Emeseh is Professor of Law and Head of the School of Law in the Faculty of Management, Law & Social Sciences. An expert in environmental law and policy, with particular focus on regulation and governance in the extractives sector, Prof Emeseh is a leading voice for change and environmental justice, working with civil society groups, intergovernmental organisations and national governments. She is a member of the Bayelsa State of Nigeria Oil and Environment Commission, tasked with the responsibility of developing a set of informed recommendations that lead to the development of a new legal framework that ensures accountability for the negative impacts of the oil and gas industry in the state. ",
+    "tokens": [
+      {
+        "text": "THE University of Bradford",
+        "start": 0,
+        "end": 26,
+        "token_start": 0,
+        "token_end": 3,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Uduak Archibong",
+        "start": 681,
+        "end": 696,
+        "token_start": 116,
+        "token_end": 117,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Engobo Emeseh",
+        "start": 2267,
+        "end": 2280,
+        "token_start": 404,
+        "token_end": 405,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "West African College of Nursing",
+        "start": 1440,
+        "end": 1471,
+        "token_start": 242,
+        "token_end": 246,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Royal College of Nursing",
+        "start": 1490,
+        "end": 1514,
+        "token_start": 251,
+        "token_end": 254,
+        "entityLabel": "ORG"
+      }
+    ],
+    "relations": [
+      {
+        "child": 116,
+        "head": 0,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 404,
+        "head": 0,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 242,
+        "head": 116,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 251,
+        "head": 116,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "Sarah Lawrence College is committed to sustaining a diverse and inclusive learning, working, and living community. This requires students, faculty, administration, and staff who reflect the diversity of our society; that people from different backgrounds and with different views be prepared to treat one another with mutual respect and honest curiosity so that they can engage and learn from one another; and that diversity infuse all aspects of the life and mission of the College. These conditions enable a genuine liberal arts education, in which the presence of people with different experiences and ideas, engaged in critical dialogue, overcomes ignorance and builds trust and knowledge. The Diversity, Equity, and Inclusion office collaborates with the Diversity Advisory and Programming Subcommittee (DAPS) of the Student Life Committee, as well as with student organizations to create events that encourage dialogue across difference and exploration of issues related to diversity, social identity, equity, and lived experience. The staff provides a semi-monthly student-facilitated dialogue group, Real Talk @SLC, whose sessions engage students in conversation and learning around social identity and equity issues, with the aim of promoting a campus culture of belonging. Fatiah Touray Vice President for Diversity, Equity & Inclusion and Special Assistant to the President E-mail Fatiah Fatiah, Amada, and Ronnie were featured in the Spring 2020 issue of Sarah Lawrence magazineread their interview!",
+    "tokens": [
+      {
+        "text": "Sarah Lawrence College",
+        "start": 0,
+        "end": 22,
+        "token_start": 0,
+        "token_end": 2,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Fatiah Touray",
+        "start": 1283,
+        "end": 1296,
+        "token_start": 214,
+        "token_end": 215,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 214,
+        "head": 0,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "STANFORD, Calif.--(BUSINESS WIRE)--The COVID-19 pandemic has produced an economic climate that is challenging for many companies, yet, in the months and years ahead, there will be an economic recovery. As businesses expand hiring and rebuild their organizations, business leaders have the opportunity to rethink the types of organizations they aspire to be. Diversity, equity and inclusion (DEI) should be center stage throughout that process. A new report, authored by highly respected academic experts at some of the worlds top universitiesincluding Stanford and Harvardalongside prominent business leaders, offers concrete strategies to help companies get there. What Works? Evidence-Based Ideas to Increase Diversity, Equity, and Inclusion in the Workplace provides human resources professionals, diversity officers, front-line managers and interested employees a new set of tools to make their organizations more diverse, thriving environments. Our goal with this report was to take the best research and empirical evidence about what works to increase DEI and distill it into clear steps for organizations, said David Pedulla, associate professor of sociology at Stanford University and organizer of the report. In the wake of this pandemic, there is a real opportunity for companies to rethink how they approach this set of issues, and I hope this report will serve as a key resource as they walk through that process. Stemming from a conference hosted at the Radcliffe Institute for Advanced Study at Harvard University in 2018, the report focuses on solutions, not problems. After tracing the changes in implicit attitudes and beliefs about different social groups, the report presents a set of evidence-based interventions that companies can deploy to improve diversity. From collecting data and setting clear benchmarks and goals, to including managers in the planning process from the start, concrete and actionable steps are clearly laid out. While the current business climate is undoubtedly challenging, there is an opportunity to step back, reexamine and infuse new creativity into how companies address DEI issues. The report attempts to cut through the current noise and divergent opinions to deliver insights organizations want and need. Additionally, it explores how technological interventions are implicated in the diversity and inclusion equation. Being forced to hit the pause button amidst this crisis has provided the space to build inclusion into many new hiring and management practices, and I believe our report offers new thinking and approaches to fuel innovation far beyond the end of shelter in place, said Lori Nishiura Mackenzie, co-founder of the Stanford VMware Womens Leadership Innovation Lab and a report contributor. In conversations with DEI professionals, Ive learned about efforts to rethink and expand the ways employee resource groups can engage and redesign assessments to accommodate work-life constraints and offer support to people to take care of themselves. While these times have created a great deal of uncertainty, Ive seen people respond with unprecedented innovation and kindness. \"Many companies make public commitments to increased employment diversity and creating equal opportunity workplaces but fail to live up those goals. This report rejects fads and easy solutions, relying instead on sound social science to identify what works,\" said Donald Tomaskovic-Devey, a contributor to the report, professor of sociology at University of Massachusetts Amherst, and director of the UMass Center for Employment Equity. \"Firms develop careful metrics on outcomes they value and use those metrics to set goals, adjust practices and hold managers accountable. It is exactly this normal business approach to problem solving which is most likely to produce diverse, respectful equal opportunity workplaces.\" \"Given the massive shifts in employment due to COVID-19, which have disproportionately impacted people of color and women, we believe interventions of this kind are more critical than ever, said Dr. Frida Polli PhD, CEO and co-founder of pymetrics and a contributor to the report. We were delighted to participate in the What Works report alongside other leaders and influencers who are focused on increasing diversity, equity and inclusion in the workplace by sharing our views on how technology can increase fairness in the hiring process.\" As the economy rebounds and companies gear back up, it is the perfect time to make diversity and inclusion a reality. The tools in this report offer a clear, evidence-based place to start, at a time when making progress on DEI issues may be more important than ever. ",
+    "tokens": [
+      {
+        "text": "Stanford University",
+        "start": 1169,
+        "end": 1188,
+        "token_start": 201,
+        "token_end": 202,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "David Pedulla",
+        "start": 1118,
+        "end": 1131,
+        "token_start": 193,
+        "token_end": 194,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Stanford VMware Womens Leadership Innovation Lab",
+        "start": 2683,
+        "end": 2731,
+        "token_start": 458,
+        "token_end": 463,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Lori Nishiura Mackenzie",
+        "start": 2640,
+        "end": 2663,
+        "token_start": 451,
+        "token_end": 453,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "University of Massachusetts",
+        "start": 3482,
+        "end": 3509,
+        "token_start": 586,
+        "token_end": 588,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Donald Tomaskovic-Devey",
+        "start": 3402,
+        "end": 3425,
+        "token_start": 573,
+        "token_end": 574,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "UMass Center for Employment Equity",
+        "start": 3539,
+        "end": 3573,
+        "token_start": 595,
+        "token_end": 599,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "pymetrics",
+        "start": 4097,
+        "end": 4106,
+        "token_start": 695,
+        "token_end": 695,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Frida Polli",
+        "start": 4058,
+        "end": 4069,
+        "token_start": 687,
+        "token_end": 688,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 201,
+        "head": 193,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 458,
+        "head": 451,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 586,
+        "head": 573,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 595,
+        "head": 573,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 695,
+        "head": 687,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "Charles Russell Speechlys and Stephenson Harwood sign up as part of Global Accessibility Awareness Day Charles Russell Speechlys and Stephenson Harwood are among firms pledging to join disability inclusion movement The Valuable 500 as part of Global Accessibility Awareness Day. The project aims to encourage 500 CEOs at some of the worlds largest companies to commit to putting disability inclusion on their boards agenda. So far, 275 companies have signed up, including Virgin, Unilever, Microsoft, Boeing, Sainsburys, EY, Deloitte, Bank of England and the BBC. Charles Russell Speechlys and Stephenson Harwood join 11 law firms already on the roster: Ashurst, Clifford Chance, Eversheds Sutherland, Freshfields Bruckhaus Deringer, Gilbert + Tobin, Herbert Smith Freehills, Kingsley Napley, Linklaters, Pinsent Masons, Reed Smith and Slaughter and May. Christopher Page, senior partner at Charles Russell Speechlys, said: Being a signatory shows we are prepared to be held to account in helping to achieve that by: reviewing how we attract and support a diverse workforce to reach their full potential; considering how we can best support all of our clients whatever their needs; and ensuring disability inclusion remains on the leadership agenda. Eifion Morris, CEO of Stephenson Harwood, added: There is so much value in diversity bringing different perspectives, voices, and ideas into our business, but it's when we truly include all of our colleagues that we reap the benefits.\" Disability inclusion campaigners are calling on businesses to learn lessons from coronavirus-related lockdowns and step up efforts to improve accessibility, both for employees and customers. Caroline Casey, founder of The Valuable 500, said: As people globally are implored to stay at home to prevent the spread of coronavirus, we are now entering a world where vast swathes of society can personally relate to what it is like to be socially excluded. It has awoken a collective empathy, both in society and business more broadly, that this is often the norm for people with disabilities. She added: Businesses have proven that they can adapt and revolutionise working models in a short time frame when forced to do sonow, business leaders must continue this approach in levelling the playing field when it comes to equal accessibility and opportunity for all in the business community. The onus is equally on business leaders as it is the rest of society to take a firm, proactive stance in leading this change. Last year a report from the trade union UNISON found that 67% of disabled workers in the UK had requests for working environment adjustments rejected changes that in some cases have now been made in response to the Covid-19 pandemic. Further reading on diversity and inclusion Seyfarth Shaw forms coalition to prevent impact of Covid-19 from undermining diversity More women must enter male-dominated legal tech to guard against AI bias, conference hears An important step: Novartis has added weight to the drive by GCs to promote law firm diversity Five US law firms commit to spending $5m on collaborative diversity 'lab'",
+    "tokens": [
+      {
+        "text": "Charles Russell Speechlys",
+        "start": 891,
+        "end": 916,
+        "token_start": 153,
+        "token_end": 155,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Christopher Page",
+        "start": 855,
+        "end": 871,
+        "token_start": 147,
+        "token_end": 148,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Stephenson Harwood",
+        "start": 1272,
+        "end": 1290,
+        "token_start": 222,
+        "token_end": 223,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Eifion Morris",
+        "start": 1250,
+        "end": 1263,
+        "token_start": 217,
+        "token_end": 218,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "The Valuable 500",
+        "start": 1704,
+        "end": 1720,
+        "token_start": 295,
+        "token_end": 297,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Caroline Casey",
+        "start": 1677,
+        "end": 1691,
+        "token_start": 290,
+        "token_end": 291,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 153,
+        "head": 147,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 222,
+        "head": 217,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 295,
+        "head": 290,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "TO MARK International Diversity Day, (May 21, 5pm BST) , the BBCs Director General, Tony Hall and the United Nations Deputy Secretary-General, Amina J Mohammed will lead an hour-long discussion on how to ensure diversity and inclusion is at the heart of plans to recover better from the COVID-19 pandemic. The event will bring together the BBC, United Nations (UN) and leading experts from across the creative industry for the Creative Diversity Dialogue discussion on LinkedIn Live. It will be broadcast to the combined audience of the BBC and UNs millions of LinkedIn followers, as well as to LinkedIn members who are in the creative industry. The event will also air on the BBCs internal staff network and the United Nations own Web TV. The pandemic has had a severe impact on the creative industries, with the indefinite suspension of many projects, and the financial stability of the many freelancers across the industry left in peril. The conversation will explore how creative leaders can ensure inclusion remains a priority during this time of uncertainty and in our socio-economic recovery. It will include contributions from the BBCs Executive team and thought leaders in the area of diversity and inclusion. The conversation will feed into the values of the 17 Sustainable Development Goals adopted by world leaders, and whilst the discussion will focus on the creative industry, the intention is for the themes and learnings to be applicable across multiple industries. June Sarpong, BBCs Director of Creative Diversity will share an update on the BBCs plans to lead the way with new diversity strategies at this time. She will also be joined by members of the BBCs Executive Board, including Charlotte Moore, Director of Content, James Purnell, Director of Radio and Education, Miranda Wayland, Head of Creative Diversity and Tim Davie, CEO of BBC Studios. They will all speak about the commitment to diversity in their areas. Rosanna Durruthy, LinkedIns Global Head of Diversity, Inclusion and Belonging, will join the panel to discuss the importance of prioritising and investing in diversity and inclusion through this crisis and beyond, and why belonging must also be a key part of this conversation. Contributions will also come from renowned academics and thought leaders in the area of diversity and inclusion Eddie Ndopu, activist, humanitarian, and UN Sustainable Development Goal (SDG) Advocate; Karen Blackett OBE, WPP U.K. Country Manager and GroupM U.K CEO; Dr. Stacy L. Smith, Founder, Annenberg Inclusion Initiative at University of Southern California; and Caroline Casey, Founder & CEO, Valuable500. The discussion will examine the crucial role the creative industries have played in ensuring intercommunity conversations and understanding continued during the COVID-19 crisis. Live news coverage has given us up-to-the-minute information. New series like Killing Eve have brought debate and conversation to social media. While moments like the BBCs Big Night In brought communities and nations together when we had to be apart. They will delve into how the creative industry can continue to showcase our diverse world under unprecedented monetary pressures. Questions will be posed: How can we create adaptations such as Noughts and Crosses that invited viewers to consider racial divisions? How can we produce ground-breaking programming like Fleabag that embraces inclusive casting? How do we represent all voices so communities understand each other? Hall said: Through the current pandemic we have been focused on keeping the public informed, educated and entertained, but our actions now and in the future must not come at the cost of building an inclusive creative industry. I am determined that the BBC continues to lead the way on diversity and we are committed to working with experts and partners at the UN and LinkedIn to share insights and learn from one another. Amina Mohammed, UN Deputy Secretary-General said: We are facing a health, humanitarian and socio-economic emergencythat is, above all, a human crisis. This is exactly the right time to focus on our diversity and to ensure inclusion in every step of our response and recovery from COVID-19 at global, country and community levels. To do this, we need partners to help us reach everyone, everywhere at the same time with life-saving information and services and to protect jobs and livelihoods. Sarpong added: The industry has come to a standstill at a time when the world needs its creativity most. As the worlds largest public service broadcaster the BBC is uniquely positioned to help lead the creative industry through this crisis, both in terms of how we weather the storm but perhaps more importantly on how we build back better. We must ensure that diversity and inclusion is baked into our new normal once the crisis has passed. We are excited to be partnering with the UN and LinkedIn to lead the way on this important conversation. Eddie Ndopu, activist, humanitarian, and UN Sustainable Development Goal (SDG) Advocate said: The pandemic is tearing back the curtain on just how entrenched inequality is. The solutions lie with the most vulnerable among us. In order to truly build back better every voice must be included. Like so many I embody all of the identities that position me at a disadvantage in society, but I am committed to making my voice heard and to fighting for that right for everyone. Rosanna Durruthy, LinkedIns Head of Global Diversity, Inclusion, and Belonging said: As companies search for ways to keep their employees connected and supported during this time, investing in diversity, inclusion and belonging must remain a top priority. The disproportionate impact of COVID-19 on underrepresented groups has underscored the importance of connection and community across our all-remote workforces and as leaders, we must ensure were doing all that we can to continue fostering inclusive environments. The discussion will be streamed on LinkedIn Live at 5pm BST on May 21. Link here.",
+    "tokens": [
+      {
+        "text": "BBCs",
+        "start": 61,
+        "end": 65,
+        "token_start": 15,
+        "token_end": 15,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Tony Hall",
+        "start": 84,
+        "end": 93,
+        "token_start": 19,
+        "token_end": 20,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "United Nations",
+        "start": 102,
+        "end": 116,
+        "token_start": 23,
+        "token_end": 24,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Amina J Mohammed",
+        "start": 143,
+        "end": 159,
+        "token_start": 28,
+        "token_end": 30,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "BBCs",
+        "start": 1496,
+        "end": 1500,
+        "token_start": 266,
+        "token_end": 266,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "June Sarpong",
+        "start": 1482,
+        "end": 1494,
+        "token_start": 263,
+        "token_end": 264,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "BBC Studios",
+        "start": 1857,
+        "end": 1868,
+        "token_start": 334,
+        "token_end": 335,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Charlotte Moore",
+        "start": 1705,
+        "end": 1720,
+        "token_start": 305,
+        "token_end": 306,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "James Purnell",
+        "start": 1743,
+        "end": 1756,
+        "token_start": 312,
+        "token_end": 313,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Miranda Wayland",
+        "start": 1791,
+        "end": 1806,
+        "token_start": 321,
+        "token_end": 322,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Tim Davie",
+        "start": 1839,
+        "end": 1848,
+        "token_start": 329,
+        "token_end": 330,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "LinkedIns",
+        "start": 1958,
+        "end": 1967,
+        "token_start": 353,
+        "token_end": 353,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Rosanna Durruthy",
+        "start": 1940,
+        "end": 1956,
+        "token_start": 350,
+        "token_end": 351,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "UN",
+        "start": 2371,
+        "end": 2373,
+        "token_start": 423,
+        "token_end": 423,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Eddie Ndopu",
+        "start": 2330,
+        "end": 2341,
+        "token_start": 415,
+        "token_end": 416,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "WPP",
+        "start": 2439,
+        "end": 2442,
+        "token_start": 436,
+        "token_end": 436,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Karen Blackett OBE",
+        "start": 2419,
+        "end": 2437,
+        "token_start": 432,
+        "token_end": 434,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "GroupM",
+        "start": 2468,
+        "end": 2474,
+        "token_start": 442,
+        "token_end": 442,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "University of Southern California",
+        "start": 2547,
+        "end": 2580,
+        "token_start": 459,
+        "token_end": 462,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Stacy L.",
+        "start": 2488,
+        "end": 2496,
+        "token_start": 448,
+        "token_end": 450,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Valuable500",
+        "start": 2617,
+        "end": 2628,
+        "token_start": 472,
+        "token_end": 472,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Caroline Casey",
+        "start": 2586,
+        "end": 2600,
+        "token_start": 465,
+        "token_end": 466,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 19,
+        "head": 15,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 28,
+        "head": 23,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 266,
+        "head": 263,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 334,
+        "head": 305,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 334,
+        "head": 312,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 334,
+        "head": 321,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 334,
+        "head": 329,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 353,
+        "head": 350,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 423,
+        "head": 415,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 436,
+        "head": 432,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 442,
+        "head": 432,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 459,
+        "head": 448,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 472,
+        "head": 465,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "Childrens books were rare when I was a child. For most of my childhood, I grew up listening to stories my father made up from his own imagination. They were narratives to teach me lessons about life and discipline. I remember one most significantly: about a wolf that howls into the dark night, calling upon her friends to get the girl who doesnt finish everything on her dinner plate. Instead of bedtime storybooks, my mother would hand me spelling books, as there were no children books in the house. And so as everyone slept, I would read P-O-T-A-T-O and C-A-R-R-O-T. As I grew older, we started having weekly library classes in school. During visits to the library, I would sneak into the children's section and hide in a corner to read Peter Pan, Winnie the Pooh, The Princess and the Peabooks that I had become too old to read by now, but ones that I nevertheless enjoyed. Sometimes, when my teacher would find me, she would admonish me. I was too old for them, shed say. Unwillingly, I would pick up Enid Blyton, which at that age was tough for me to understand. Things, however, have changed for young children today and for the better. For children these days, options are plenty. You can find books of different genres too for children. You also have childrens books that are closer to home. Only this week, Srijanalaya, an NGO, added six children picture booksLadeha and Bachhiya, A Foxs wedding, Kailari, My Dudhu, Khuttruke, Bhukalifrom Tharu writers to the budding children books market in the country. And they are remarkablenot just for the stories they tell but because they offer a glimpse into Nepals diverse culture and lifestyle of the Tharu community. The characters in the stories are not just mere representations of a community rather they, together with the illustrations, work together to teach children, at their impressionable age, about diversity and even inclusion. In the story Hamar Dudhu, written by Shanti Chaudhary and illustrated by Ubahang Nembang, a young girl proudly talks about her mother, Dudhu in Bara Jilla Tharu language. The story is also based on Chaudharys mother. The book has been translated into three other languagesEnglish, Nepali and Dangauro Tharuas well to make it more accessible to a wide range of readers. The English version of the book, titled My Dudhu, is translated by Muna Gurung, founder of Kathasatha, a forum which fosters public writing and storytelling in Kathmandu. Hamar Dudhu, with its enchanting illustration, is engaging and enlightening, and speaks about Tharu women and their lives. But for a child, it may not be an easy task to completely grasp what the book is saying. From the get-go, the book speaks about social customs and issues. Take for instance this line: My Dudhu was a child when she got married. There are instances in the story that read into the tradition of the Tharu community (much like in many other Nepali communities) that perhaps when read to a child needs more explaining. Like, Every day my Dudhu wrapped herself in a white cotton sari, to say she is a widow or, Once when Buwa hit Dudhu, the glass bangles on her wrist broke, to show domestic violence. For a childrens book, the book is atypical for many reasons. It highlights issues that our society is still uncomfortable talking about openly, such as child marriage, domestic violence, death and even women empowermenttopics seldom touched in childrens books. Often in children's books, the metaphors of the challenges in life are ghosts, a problem or a tangible object or a real subject that children can relate to, but in Hamar Dudhu, the writer presents readers with an ordinary life and the challenge is life itself. There is no tangible problem to grasp at immediately or a falling action to the plot, the narration is what carries the book. And that is also why this story is powerful, eloquent and stirring. However, children reading this book will have a lot of questions as the book is both comforting and confronting. They will need parental guidance or reference to read this book. As the story moves forward, we see the girls mother growing into a strong independent woman. She weaves mouni, colourful baskets, which over the years becomes very popular with high demand for it in the neighbourhood, especially during weddings. The choices of words for the storytelling are subtle, careful and kind, and as we read along, we too see why the girl wants to be like her Dudhu and not any stoic representation of power. Nembangs illustration is liberating and endearing, its colourful and mirrors the Tharu community beautifully. There is a tenderness to his strokes as though he too understands the story being told. For those who have been to the Tarai, these pictures are evocative of the visuals in Tharu communities. Hamar Dudhu, along with the other five books that Srijanalaya has come out with as part of the Book Creation Project supported by The Asia Foundations Books, makes a groundbreaking feat with local stories. ",
+    "tokens": [
+      {
+        "text": "Kathasatha",
+        "start": 2357,
+        "end": 2367,
+        "token_start": 459,
+        "token_end": 459,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Muna Gurung",
+        "start": 2333,
+        "end": 2344,
+        "token_start": 454,
+        "token_end": 455,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Kathmandu",
+        "start": 2426,
+        "end": 2435,
+        "token_start": 470,
+        "token_end": 470,
+        "entityLabel": "LOC"
+      }
+    ],
+    "relations": [
+      {
+        "child": 459,
+        "head": 454,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 470,
+        "head": 459,
+        "relationLabel": "locatedAt"
+      }
+    ]
+  },
+  {
+    "document": "To help promote the theme of International Museum Day 2020, Museums for Equality: Diversity and Inclusion, ICOM has teamed up with Routledge History and Museum Education Roundtable to make 15 pertinent articles free to access until 30th June. Describing this years International Museum Day as being marked in the most exceptional circumstances since its establishment in 1977, ICOM president Suay Aksoy is keen for the sector to continue efforts to deliver equal opportunity, representation and access for all. Acknowledging that it seems like a strange time to celebrate, as thousands of museums remain closed and the uncertainty of what will happen in the coming months overwhelms our thoughts, Aksoy asserts that it is precisely now that we need to spread the message of the International Museum Day. She adds that through this years event ICOM hopes to celebrate the manifold perspectives that make up museums, their communities and people, and to champion tools for identifying and overcoming bias in what they display and the stories they tell. We must keep moving forward while nurturing the spirit of solidarity, resilience and innovation we have found, Aksoy concludes. Each one of us has an important role to play in reimagining and building a future based on equality, diversity and inclusion. Links to the articles made free-to-read until 30th June are available here.",
+    "tokens": [
+      {
+        "text": "ICOM",
+        "start": 377,
+        "end": 381,
+        "token_start": 62,
+        "token_end": 62,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Suay Aksoy",
+        "start": 392,
+        "end": 402,
+        "token_start": 64,
+        "token_end": 65,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 64,
+        "head": 62,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "Many programs, like the STRIDE program, focus on reducing bias in faculty hiring. While improving diverse representation among the faculty is an important first step, colleges and universities must go further: they must create environments that help retain diverse faculty members and support their success. Research shows that women and faculty of color feel less included at their institutions, particularly in STEM departments where it is still common to find few women or faculty members from underrepresented groups. Many faculty of color may feel both invisible in their departments and hypervisible at the same time. Exclusionary norms, interactions and values translate into an unwelcoming environment, which may lead some faculty members to leave their institutions or exit academe altogether. With the current crises of both COVID-19 and racist violence against black people, department chairs and heads have been under pressure to make decisions quickly with limited information. But in times of crisis, inclusion becomes more important than ever. Research shows that stress can cause well-intentioned leaders to resort to bias and exclusion. As researchers with the University of Massachusetts at Amherst ADVANCE Program, funded by the National Science Foundation, we have conducted surveys and interviews with diverse STEM faculty members about their careers, on how included they feel on campus and what supports could be put in place to foster a greater sense of belonging and feeling valued. We suggest that inclusion comes from the daily, lived experiences and interactions of faculty members. Our research indicates that departmental interventions can be particularly effective in ensuring that faculty, especially underrepresented faculty, feel included on a campus. Weve outlined practical steps that departmental leaders can take to become allies and foster inclusivity among their colleagues. While inclusion can mean different things to different groups, it generally signals that faculty members of all backgrounds feel welcomed and supported on their campuses. Inclusive campus climates have positive effects on faculty retention and success, and inclusion efforts play key roles in addressing inequities in higher education. Women and underrepresented minority faculty members often cite a negative campus climate as a barrier to their persistence and success, particularly faculty in STEM fields that are predominantly composed of white men. Researchers have described the patterns of inequitable treatment facing women and faculty of color, especially in STEM, as a chilly climate. The chilly climate includes overt discrimination and harassment, as well as more subtle practices like being excluded from social groups or overburdened with teaching and service responsibilities. The accumulation of such exclusionary practices creates systemic disadvantages for women and minority faculty members. Colleges and universities have invested heavily in diversity efforts. While large-scale efforts are important, they have several key problems. First, research shows that diversity programs like unconscious bias training dont always work. Worse, these initiatives can backfire to actually activate bias, further marginalizing underrepresented groups, or create anger and resistance among employees -- especially if participation is made mandatory. More so, diversity language may be perceived as threatening to members of dominant groups, particularly white men. And, relatedly, these diversity efforts often target individuals, rather than focusing on changing the broader workplace context. Even well-intentioned efforts may undermine efforts to foster an inclusive campus climate. What does this mean for department leaders looking to create inclusive communities? Shelley Correll, professor of sociology and organizational behavior at Stanford University, outlines a small wins model of organizational change. Small wins are concrete, implementable action steps that feel doable to supporters but are small enough to fly under the radar of detractors. Small wins subtly shift social norms and culture, becoming building blocks to inspire longer-term institutional transformation. In interviews with women STEM faculty and faculty of color, we find they repeatedly suggest small-scale changes to create inclusive communities. While they find value in campuswide diversity initiatives, more often than not, they suggest that local-level changes in departments would do more to improve their daily lives. We summarize here 10 small wins that department leaders can put in place to create inclusive departments. Although small, these efforts require investing time into inclusion and pay very rich dividends, as faculty will be more likely to develop strong relationships with colleagues, feel valued and ultimately succeed. Chair meetings. Perhaps the intervention most regularly mentioned by STEM faculty to support inclusivity is regular meetings with department chairs and heads. Key here is the regularity of meetings, which make faculty feel valued by their chairs. These meetings can be scheduled sit-downs or relatively brief doorway check-ins that provide space for chairs to understand diverse faculty perspectives and answer questions that support faculty success. Group events such as lunches with non-tenure-track or pretenure faculty are also helpful, but one-on-one interactions are particularly valuable. Mentoring plans. Creating a strong departmental mentoring plan can help ensure that formal procedures aimed at inclusion are in place. Mentoring plans can be explicit written documents that recognize faculty needs at various career stages and include mechanisms to make sure that mentoring is actually occurring. Relying on informal mentoring or friendships to fill in gaps can reinforce existing inequalities in access to support, information and resources. Mentoring to promotion. Chairs should ensure that committees that assess faculty members moving toward promotion regularly meet with those faculty members. Meetings should provide clear, formative assessments that reflect the advice of committee members and guide the faculty member toward their goals. Such meetings create transparency around personnel decisions, informing faculty members about the process and expectations for promotions. Regular department meetings. In departments or programs with regular meetings, faculty report having closer ties with colleagues. Chairs should consider faculty members care responsibilities and commuting requirements when scheduling meetings; regularly scheduled meeting times during the workday do appear to foster greater inclusion. Service assignments. Chairs can use service assignments to integrate faculty members into the department and to build faculty connections across rank and subfield. Serving on promotion and tenure committees also provides clarity around expectations for junior faculty members. Service assignments should be rotated, giving different faculty members opportunities to interact and learn about various elements of the department. Transparency about the responsibilities and time commitment for different service jobs also provides important clarity that leads to greater equity. Research talks. Scheduling regular chalk talks or work-in-progress talks that feature diverse departmental speakers connect faculty members over research. Discussions about research or new projects may lead to collaborations and can help faculty members feel recognized as researchers -- particularly if these events use practices aimed at a diverse lineup and are regularly attended. Creating smaller communities around shared research interests within the department, like working groups, can also bring people together, particularly in larger units. Social events. Regular social events can help make departments feel more inclusive. Hosting social events inside and occasionally outside the workday can help give diverse faculty members opportunities to engage with one another. Organizing coffee breaks, picnics that welcome family members, celebrations for graduation or holidays and other events -- ideally more than once a year -- helps connect faculty members to their departments. Departmental awards. Women faculty members, particularly those in STEM fields, can feel invisible to their colleagues and undervalued for their research, teaching and service. Creating departmental awards that recognize the important work of colleagues, or creating nomination committees for campus and external awards, make contributions more visible. Including work that matters to the life of the department in annual and other personnel reviews also improves visibility. Writing, teaching and mentoring communities. Establishing spaces for faculty members to come together over shared interests and experiences builds connections. Organized writing sessions create accountability and support for an aspect of faculty careers that is highly valued yet may often be sacrificed in order to meet pressing teaching and service demands. Similarly, organizing faculty communities to discuss teaching and mentoring practices and challenges can benefit both faculty and students. Communication and shared calendars. Regular communications that highlight faculty members research or recognize their success can foster feelings of respect and being valued among colleagues. Shared departmental calendars and social media not only help faculty keep track of meetings and events, but may also help develop a shared norm around attending departmental events. While many of the small steps weve outlined here seem to require being in-person and face-to-face, we believe that many small wins can be achieved online as well in our unprecedented circumstances. Continue to regularly check in with faculty members, be mindful of work assignments, host online departmental forums and keep prioritizing inclusive leadership behaviors. By focusing on localized, small wins, campus leaders can foster resilient, inclusive communities that support all faculty members in weathering the current crises.",
+    "tokens": [
+      {
+        "text": "Amherst",
+        "start": 1209,
+        "end": 1216,
+        "token_start": 199,
+        "token_end": 199,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "University of Massachusetts",
+        "start": 1178,
+        "end": 1205,
+        "token_start": 195,
+        "token_end": 197,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Stanford University",
+        "start": 3864,
+        "end": 3883,
+        "token_start": 613,
+        "token_end": 614,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Shelley Correll",
+        "start": 3793,
+        "end": 3808,
+        "token_start": 603,
+        "token_end": 604,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 199,
+        "head": 195,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 613,
+        "head": 603,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "On Wednesday, leaders from some of the top global corporations and nonprofit advocacy groups met online to participate in Adweeks first-ever Diversity and Inclusion Summit. The 13 D&I champions collectively represent hundreds of billions of dollars in corporate revenues. Each has made strides in their field to promote inclusive hiring, advertising and overall representation. At Wednesdays summit, they took turns interviewing each other about the long road to corporate diversity and how the Covid-19 pandemic could threaten equality. Nearly all of the speakers are also founding members of Adweeks Diversity and Inclusion Council. And all agreed on one thing: The economic anxiety surrounding businesses during the pandemic means more effort should be put into diversity and inclusion, not less. Adweek chief community officer Nadine Deitz started the summit by acknowledging that not everyone was going to like everything they hear during the event, which made an impression on Kai Deveraux Lawson, WPPs director of community engagement. I really appreciated the fact that the tone was set from the beginningthat somebodys probably going to say some stuff today that offends you, jolts you and makes you uncomfortable, she said. The more we can have real and honest conversations, the better its going to be [for everyone], added Anne Elisco-Lemme, executive creative director at Duncan Channon. So, I loved those real moments today because I do think that the time to just have nice conversations about this is so far in the past. Claudia Romo Edelman (founder, We Are All Human) Here are some of the key themes that emerged, including select audio segments. D&I efforts shouldnt be canceled by the pandemic In front of nearly 4,500 virtual attendees, Dietz kicked off the conversation with Pritchard, who stressed that brands should double down on D&I programming right now, rather than backing away. Zalis questioned why anyone would want to go back to normal during or after the pandemic if normal wasnt ever ideal in the first place. It can be tempting for employers to abandon internal diversity efforts, not just because companies are cutting costs everywhere but because diversity work is difficult. As Lucio said during the summit, D&I forces people to have tough conversations, to be embarrassed and to make mistakes. But if were to make progress, we have to embrace failure. ",
+    "tokens": [
+      {
+        "text": "Adweek",
+        "start": 800,
+        "end": 806,
+        "token_start": 134,
+        "token_end": 134,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Nadine Deitz",
+        "start": 831,
+        "end": 843,
+        "token_start": 138,
+        "token_end": 139,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "WPPs",
+        "start": 1004,
+        "end": 1008,
+        "token_start": 168,
+        "token_end": 168,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Kai Deveraux Lawson",
+        "start": 983,
+        "end": 1002,
+        "token_start": 164,
+        "token_end": 166,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Duncan Channon",
+        "start": 1385,
+        "end": 1399,
+        "token_start": 238,
+        "token_end": 239,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Anne Elisco-Lemme",
+        "start": 1335,
+        "end": 1352,
+        "token_start": 231,
+        "token_end": 232,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "We Are All Human",
+        "start": 1568,
+        "end": 1584,
+        "token_start": 276,
+        "token_end": 279,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Claudia Romo Edelman",
+        "start": 1537,
+        "end": 1557,
+        "token_start": 270,
+        "token_end": 272,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 138,
+        "head": 134,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 168,
+        "head": 164,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 238,
+        "head": 231,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 276,
+        "head": 270,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "On Friday, August 16, at around 7 a.m., a pair of suspicious appliances was found on a subway platform at the Fulton Street station in lower Manhattan and, an hour later, a third near a garbage can on West 16th Street. Initially, police thought they might be improvised bombs, like the shrapnel-filled pressure cookers that blew up at the 2013 Boston Marathon and in Chelsea in 2016, but upon inspection they turned out to be harmless empty rice cookers, probably meant to scare but not explode. Trains were delayed during the morning commute, but since that happens often enough without any terrorist help at all, the scariest thing about this episode may have been the way the alleged perpetrator was caught. Minutes after the discovery, the NYPD pulled images of a man leaving the devices from subway surveillance cameras and gave them to its Facial Identification Section (FIS), which ran them through software that automatically compared his face to millions of mug shots in the police departments database. The program spit back hundreds of potential matches in which officers quickly spotted their person of interest: Larry Griffin II, a homeless 26-year-old the NYPD had arrested in March with drug paraphernalia. FIS double-checked its surveillance pictures against Griffins social-media accounts, and by 8:15 a.m., his name and photos were sent to the cell phones of every cop in New York. He was arrested in the Bronx late that night and charged with three counts of planting a false bomb. (He pleaded not guilty.) This might seem like a feel-good story: A potentially dangerous person was identified and apprehended with previously impossible speed and no casualties thanks to by-the-book use of new technology (or newish; the NYPD has used facial-recognition software since 2011). But zoom out a little and it looks more like a silver lining on one of this years biggest feel-bad stories: The facial-recognition system that ensnared Griffin is only a small piece of a sprawling, invisible, privacy-wrecking surveillance apparatus that now surrounds all of us, built under our noses (and using our noses) by tech companies, law enforcement, commercial interests, and a secretive array of data brokers and other third parties. In 2019, facial recognition may have finally graduated from dystopian underdog  it was only the fourth- or fifth-most-frightening thing in Minority Report; its never played more than a supporting role on Black Mirror; and in the Terminator movies, it was a crucial safety feature preventing the Terminator from terminating the wrong people  to full-grown modern worry. A brief recap of the year of Face Panic: This spring, we heard that the FBIs facial recognition database now includes more than 641 million images and the identities of an unsuspecting majority of Americans, which can be searched anytime without warrant or probable cause. We also heard that spooked lawmakers banned police use of facial recognition in Oakland; Berkeley; Somerville, Massachusetts; and San Francisco, of all places, where Orwellian tech products are the hometown industry. But everywhere else and in all other contexts, facial recognition is legal and almost completely unregulated  and we heard that its already being used on us in city streets, airports, retail stores, restaurants, hotels, sporting events, churches, and presumably lots of other places we just dont know about. Over the summer, we heard a rumor about a novelty photo app that might be a secret ploy by the Russian government to harvest our selfies for its own facial recognition database. That turned out to be false (or at least we think so), but it mightve made us reconsider all the photos weve given to other companies whose loophole-filled terms of use agreements translate to we own your face  including Facebook, which is thought to have one of the worlds largest facial recognition databases and has not exactly proven itself to be the most responsible custodian of our private information. We barely heard about the Commercial Facial Recognition Privacy Act of 2019, a bill introduced in March by Republican Senator Roy Blunt and Democrat Brian Schatz that would have prohibited companies from using facial recognition to track you in public, and collect or sell your face data, without your consent. It was the kind of common-sense bipartisan proposal that almost everybody can agree with; it was referred to a committee and never made it to a vote. But we heard a lot about facial recognitions unreliability, and that misidentifications are common, especially for people of color, and that the London Metropolitan Polices system has an appalling failure rate, and that Amazons software once mistook a bunch of seemingly upstanding congresspeople for criminal suspects. Maybe that meant, we hoped, that the technology was still only half-baked and that our worries were premature, and that one big lawsuit could make it all go away. And then we heard about Larry Griffin II. And if his story was meant to calm any fears about facial recognition, well, mission not necessarily accomplished. If the software works well enough to identify one bomb-hoax suspect among 8.4 million New Yorkers in under an hour using only a couple of grainy surveillance photos, maybe our worries arent so premature after all. Because even though facial recognition isnt fully reliable yet, and it might never be, its already transforming law enforcement. And it probably wont need to be perfect before it transforms our everyday lives, too. In a possibly related story, perhaps you have noticed an unusually high demand for pictures of your face over the past several years? Computerized facial recognition has been in development since the 1960s. Progress was steady but slow, though, until the recent arrival of advanced artificial neural networks  i.e., computer systems modeled on animal brains that can recognize patterns by processing examples  which have allowed human programmers to feed these networks many photos of faces and then step aside while algorithms teach themselves what faces look like and then how to tell those faces apart and eventually how to decide if a face in one photo is the same face in a different photo, even if that face is wearing sunglasses or makeup or a mustache or is poorly lit or slightly blurry in one image but not the other. The more photos an algorithm has to learn from  millions or billions, ideally  the more accurate it becomes. Some companies asked you to upload your vacation photos and tag yourself in them. And others asked for a selfie in exchange for an autogenerated cartoon caricature of you or to tell you which celebrity or Renaissance painting you most resemble. And then some companies got impatient with all this asking, so they acquired the other companies that had already collected your photos, or they scraped public images of you from social media and dating sites, or they set up hidden cameras in public spaces to take their own pictures. How many algorithms have been trained on your face? Hard to say, because there arent really any laws requiring your consent, but Facebook, Google, Amazon, Apple, Microsoft, IBM, and dozens of start-ups with names like Facefirst, FaceX, and Trueface all have their own facial-recognition algorithms, and they had to have learned somewhere. Some of those algorithms are pretty accurate, too, at least under optimal conditions. Last year, the U.S. Department of Commerces National Institute of Standards and Technology (NIST) tested 127 facial-recognition algorithms from 40 developers to see how often they could find matches in a large database. With high-quality images to compare, the top-performing algorithms only failed to return the correct match in 0.2 percent of searches, which is 20 times better than the results of a similar test in 2014. Facial recognition will inevitably improve on its own, but it might be even more accurate when used in combination with other long-range biometrics. In China, gait recognition is already identifying people based on the way they walk, with 94 percent accuracy according to one company offering the service. And the Pentagon claims to have developed a heartbeat laser  that is, an infrared beam that can read a persons unique cardiac signature through a shirt or jacket, allegedly with 95 percent accuracy. (The current model can reportedly detect a heartbeat from 200 meters away, but with a slightly better laser, however: I dont want to say you could do it from space, a Pentagon source told the MIT Technology Review, but longer ranges should be possible.) For facial-recognition software to recognize you in the wild, it needs to be connected to a database with your photo and identifying information in it. (Just because an algorithm has trained with your face doesnt mean it knows who you are.) Unless youre Elena Ferrante or a member of Daft Punk, and maybe even if you are them, theres a good chance youre in a database or two. If youve ever been tagged in a photo on Facebook or Instagram, for example, you belong to what is by Facebooks own claims the worlds largest facial-recognition database, to which users add hundreds of millions of new images every day. The companys facial-recognition algorithm, DeepFace, which is constantly retraining itself on those new images, is presumed to be more accurate than software used by most law-enforcement agencies. For now, Facebook says it only uses DeepFace to suggest tags when users upload new pictures. But that didnt help the company in August when a federal appeals court ruled that 7 million Facebook users in Illinois can sue the company for storing their face data without permission, which they claim is a violation of the states Biometric Information Privacy Act, currently the only such law in the U.S., which could make Facebook liable for as much as $5,000 per affected user or $35 billion total. (In response, Facebook has stopped suggesting tags for photos by default.) The FBIs facial-recognition database spans mug shots, the State Departments entire directory of visa and passport pictures, and photos from the Departments of Motor Vehicles in at least 22 states (and counting) that allowed the agency to scan residents drivers licenses without their consent. (In Utah, Vermont, and Washington, where undocumented immigrants can legally drive, DMVs have shared facial recognition data with Immigration and Customs Enforcement.) If youve managed to keep yourself out of the FBIs database so far, that may get harder in October 2020, when Americans in 47 states will be required to show either a passport or a new federally compliant Real ID drivers license to board any domestic flight. All of this would be bothersome enough in a world with perfect data security or one in which you could get a new face as easily as your bank replaces a stolen debit card. But we live in neither of those worlds, and faces have already been hacked. In June, U.S. Customs and Border Protection announced that hackers had breached the servers of one of its subcontractors and stolen travelers face data, some of which reportedly turned up on the dark web. Despite plenty of more deserving scandals, though, none caused as much hysteria in 2019 as FaceApp. In July, all of your friends, plus Snooki, the Jonas Brothers, and Lebron James, shared pictures taken with the image-processing tool, which went viral by making users look like elderly people. But panic ensued when they read FaceApps merciless terms of use agreement. (You grant FaceApp a perpetual, irrevocable, nonexclusive, royalty-free, worldwide, fully-paid, transferable sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display your User Content and any name, username or likeness provided in connection with your User Content in all media formats and channels now known or later developed, without compensation to you.) And then even more panic ensued when they found out FaceApp is headquartered in St. Petersburg, Russia. Had Vladimir Putin tricked America again, this time into handing over the elusive face data of its influencers? No, or at least probably not. FaceApp denied that the company shares data with third parties, and claimed most user images are deleted within 48 hours, which seemed to stem fears. But if FaceApp did decide to pull up stakes and pivot to facial recognition, it would not be the first company like it to do so: The photo-management app EverRoll launched in 2012 and collected 13 billion images in which users had tagged themselves and their friends. EverRolls parent company, which recently renamed itself Paravision, discontinued the app in 2016 and used those images to train its facial recognition software, which is now ranked as the No. 3 most accurate algorithm tested by NIST and is sold to law enforcement. The worst-case scenario for facial recognition might look like something like Chinas forthcoming social credit system. When the system is fully operational next year, the government will use all surveillance methods at its disposal, including facial recognition and 200 million cameras, to track citizens behavior and assign each of them a social score, which will have a variety of consequences. Infractions such as jaywalking and buying too many video games could make it harder to rent an apartment or get a loan from a bank. That probably isnt likely in the U.S., but a more ordinary kind of surveillance is almost inevitable. Maybe its already here. Commercial facial recognition has been around for years, but since there arent any laws requiring anyone to disclose that theyre using it on you, its impossible to say how widespread it is. Which means any camera you pass could be recognizing your face. Among the many vendors offering commercial facial recognition software is Face-Six, a Tel Aviv based company founded by Moshe Greenshpan in 2012 after Skakash, a mobile app he was developing that would have identified actors in movies and TV shows, failed to attract investors. Greenshpan says he now serves more than 500 customers worldwide, offering a variety of custom products, including FA6 Retail (to prevent shoplifting), FA6 Class (to take attendance in schools), FA6 Med (for use in hospitals to verify patients identities and prevent treatment errors), and FA6 Drone (which identifies criminals, missing people, and civilians from a drones camera, and which is available for government and private uses.) But Greenshpans most controversial product has been Churchix, which he sells to churches that want to keep track of which parishioners are showing up to mass. Churchix attracted negative coverage when it launched in 2015, some of which is linked to on the companys website. In the beginning, all press was good press, says Greenshpan. You really need to explain to people why facial recognition is more good than bad. Churches manage attendance manually, but when we provide an efficient tool that does it automatically, suddenly there are concerns. And if those concerns include transparency? We dont know what each and every customer does with our software, Greenshpan says, but usually churches [that use Churchix] dont tell their members. But Greenshpan does connect me with David Weil, founder of the Warehouse, an after-school recreation center and skateboarding park in Bloomington, Indiana, which uses Face-Sixs software on two security cameras, for one extremely specific purpose: Our building is five acres under one roof, and there are over 200 registered sexual offenders in the area, says Weil. So with that much space and that many pedophiles, this software really helped us. As visitors enter the building, the cameras scan their faces, and Face-Sixs software searches them against a database provided by the local sheriffs office. According to Weil, the Warehouse had 72,000 visits in 2018, and facial recognition managed to keep out two sex offenders: We just politely told them, Were a youth center. Youre not allowed to be here, he says. I had one false ID, but the gentleman was very understanding of the situation. Among the other ways we know facial recognition is already being deployed: Airlines are using it to replace boarding passes, and the Department of Homeland Security says it plans to use facial recognition on 97 percent of airline passengers by 2022. And at least three arenas have experimented with the technology, including Madison Square Garden. On stops of Taylor Swifts recent Reputation tour, fans faces were scanned and searched against a database of her hundreds of known stalkers. Last year, residents of an apartment complex in Brownsville protested when they found out their landlord wanted to use facial recognition to supplement their key fobs  but other buildings in the city have been known to use it for years, including the 12 that make up the Knickerbocker Village complex on the Lower East Side. Some virtual-doorman systems include it, too. At least eight public-school districts in the U.S. have installed facial-recognition systems to detect suspended students and anyone else banned from school grounds. Retailers use facial recognition to prevent theft, and some software even comes bundled with databases of known shoplifters, but not many stores will admit to it. Last year, the ACLU asked 20 top retail chains whether they use facial recognition, including Best Buy, Costco, Target, and Walmart, and only received two answers  rom the grocery conglomerate Ahold Delhaize, whose brands include Food Lion and Stop & Shop, which doesnt use it, and from the hardware chain Lowes, which tested facial recognition in the past but has since stopped. Retailers dont need to run facial-recognition software on their premises to benefit from it. Apple denies using the technology in its brick-and-mortar locations, but in one confusing incident last year, a New York teenager was arrested and charged with stealing from multiple Apple Stores when police said he was identified by facial recognition. Apple apparently employs an outside firm called Security Industry Specialists in some locations; SIS may have run facial-recognition software on surveillance footage captured inside the Apple Stores the teen was alleged to have stolen from. (Charges were dropped against him when an NYPD detective realized he looked nothing like the suspect in the footage of the robberies. In April, the teen sued Apple and SIS for $1 billion.) Facial recognition could soon be more valuable to retailers in other ways. One likely possibility is that some will eliminate checkout lines by having customers pay with their faces. Another is using facial recognition to target the people most likely to buy things by tracking their in-person shopping habits the same way cookies track our online ones  or maybe, eventually, using what they know about our virtual selves to direct us toward products in the real world. If youve ever been creeped out by an uncannily well-targeted ad served to you on Facebook or Instagram, imagine being helped by a retail employee who knows whats in your web history. But what if youre not the person facial recognition says you are? Last year, the ACLU used Amazons facial recognition software, Rekognition, to search a database of 25,000 mug shots using photos of members of Congress and found that it misidentified 28 lawmakers as criminals, including six members of the Congressional Black Caucus, and a similar test this summer mistook 26 California state legislators, again with people of color overrepresented in the false matches. Amazon says the ACLU intentionally misrepresented its software by setting its confidence threshold too low  the company recommends that police act only on matches in which the system expresses at least 99 percent confidence  but theres nothing to prevent police from doing the same thing. Its toothless, says Jacob Snow, the technology-and-civil-liberties attorney at the ACLU who ran the tests. Amazon could say to law enforcement, Were going to set the confidence threshold at 99 percent, and you cant change it. But theyre not doing that. Dark skin isnt the only thing facial recognition fails with. In NISTs tests, it found that even top-performing algorithms had trouble identifying photos of the same person at different ages and were often unable to tell the difference between twins  not just identical twins but fraternal ones of the same sex, too. And performance depends on the clarity of the photos being used. NIST was primarily comparing high-quality mug shots to other high-quality mug shots, but under real-world conditions, with blurry surveillance photos taken at bad angles by cameras that may have been set up incorrectly, results may vary. Even a facial-recognition system with low error rates can cause problems when deployed at large scale. During six recent tests of the London polices facial-recognition system, which scanned the faces of people on public streets in search of wanted suspects, 42 matches were made but only eight were verified to be correct (30 matches were eventually confirmed to be misidentifications, and four of the 42 people disappeared into crowds before officers were able to make contact). Because they scanned thousands of faces in total, the London police said their error rate was 0.1 percent, but most headlines begged to differ: LONDON POLICE FACIAL RECOGNITION FAILS 80% OF THE TIME AND MUST STOP NOW, said one. Police have also been caught taking creative license with the technology. A report published in May by the Georgetown Universitys Center on Privacy and Technology found that six departments in the U.S. allow officers to run composite sketches of suspects through facial-recognition software. That same report tells the story of a suspect whod been caught by surveillance cameras allegedly stealing beer from a CVS in Gramercy Park in 2017, but the video was low quality and no useful matches were returned. A detective noticed, though, that the man bore a resemblance to Woody Harrelson, so he ran a search using an image of the actor  which eventually led to an arrest. The person they ended up investigating was the tenth person on the candidate list, says Georgetown Laws Clare Garvie, the author of the report, meaning the algorithm thought nine other people [in the NYPDs mug-shot database] looked more like Woody Harrelson. If you can put person A into an algorithm and find person B, why does that not prove that if youre looking for looking for person B, you might accidentally find person A? They intentionally forced a misidentification as a valid investigative technique. NYPD spokesperson Devora Kaye notes that this case was just one of more than 5,300 requests to FIS in 2017. The NYPD, she says, only uses facial recognition as an investigative tool and doesnt arrest or detain suspects whose identities havent been corroborated by other means. A facial recognition match is a lead. No one has ever been arrested solely on the basis of a computer match, no matter how compelling. If Larry Griffin IIs story typifies a best-case use of facial recognition for law enforcement, Kaitlin Jackson, a public defense attorney with the Bronx Defenders, tells me one that exposes its drawbacks. Jackson represented a man whod been arrested for the theft of socks from a T.J. Maxx store in February 2018, supposedly after brandishing a box cutter at a security guard. My client was picked up months after the robbery, and the only way I even found out facial recognition was used was that I just started calling the prosecutor and saying, How in the world did you decide months after that it was my client? There are no forensics, she says. It turned out the police went to T.J. Maxx security and said, We want to pull the surveillance [video], were going to run it through facial recognition  so they were already cluing him in that any suspect will have been picked by facial recognition. And then they texted the security guard a single photo that he knows has been run through facial recognition, and they said, Is this the person? Thats the most suggestive procedure you could possibly imagine. And then they make the arrest and say its on the basis of an [eyewitness] ID, and they try to bury that this is a facial-recognition case. (The NYPD said the defendant had committed a theft at the same store before and said the security guard knew him from prior interactions. The detective on the case showed him an image hoping it would put a name to a face, the department said in a legal filing.) Jacksons client had at least two lines of defense: He has a twin brother, who could have triggered the facial-recognition match  although Jackson doesnt think the twin stole any socks either  but more important, his wife was in labor at the time of the theft and he was in the delivery room. We had pictures of them at the hospital, and his name was on the birth certificate, says Jackson. But the prosecution would not dismiss the case  partly, she suspects, because they have an undying faith that the software doesnt get it wrong. Their only recourse, she said, would be to argue, Maybe he left a few minutes before his baby was delivered and ran out to get socks and then came back. Jackson says her client spent half of last year in prison. He was on probation when he was arrested. So our real problem was the way that all these systems interact. Probation lodged a hold, and they would not withdraw the hold because of this case, and the prosecution wouldnt dismiss this case. And then finally [the prosecution] offered him something that would get him out of jail. So he did what a lot of us would  he took a plea of something he did not do. But facial recognition is about more than just who you are, and what youve bought, and the crimes you have or havent committed, and whether your resemblance to a sex offender will make it hard to find places to skateboard  its also about how you feel. Because another thing the technology can do, or at least supposedly do, is detect emotions. Amazon, IBM, Microsoft, and others claim their software can guess which emotion youre feeling based on your facial expressions  or in some cases microexpressions, under the logic that even if you attempt to hide your feelings, certain facial muscles are beyond your control. Amazon, for example, says Rekognition can infer whether a face is expressing happiness, sadness, anger, confusion, disgust, surprise, calmness, or fear  although the documentation warns that results are not a determination of a persons internal emotional state and should not be used in such a way, and that a person pretending to have a sad face might not be sad emotionally. Other vendors are more confident in their mood-reading abilities. The London-based start-up RealEyes markets a service to advertisers that scans peoples faces through their computers webcams to measure their attention level and emotions while they watch commercials. The Utah-based company Hirevue claims its software can analyze video job interviews to judge personality traits and eliminate disinterested candidates. (Hirevues clients include Dunkin Donuts, Staples, and Urban Outfitters.) On its website, the facial-recognition company Kairos brags about the work it did for Legendary Pictures gauging reactions of audience members at movie test screenings: More than 450,000 emotional measurements were recorded per minute over the screening of preview films, for a total of around 100 million facial measurements processed in total. Kairos says Legendary used that data to determine which parts of movies worked best in ads, identify the demographics most likely to share trailers, and ensure Legendarys movies were appealing to mainstream audiences as well as their targeted fan demographic. Neither Kairos nor Legendary Pictures would confirm which movies were involved, but Kairos CEO Melissa Doval says the screenings probably happened in 2013 or 2014, and theres a picture from the 2013 Superman movie Man of Steel on Kairos website. Your facial tics may not necessarily lose you any jobs or give the wrong impression about your taste in superhero movies, though  because emotion-detection software might not really work. In July, a group of five top psychologists published a report in Psychological Science in the Public Interest, which cited over 1,000 other journal articles and found that facial expressions are more complex than the software gives them credit for: It is not possible to confidently infer happiness from a smile, anger from a scowl or sadness from a frown, as much of current technology tries to do when applying what are mistakenly believed to be the scientific facts. Ultimately, the most worrisome thing about facial recognition might be how accessible it is. Because its not just available to governments and corporationsits also for sale to you, me, your landlord, random perverts, and anyone else with a camera and a computer, and for cheaper than youd probably expect: Amazons Rekognition, for example, offers a free year-long trial that lets you identify faces in 5,000 images or 1,000 minutes of video per month (and after that, its a penny per ten photos or ten cents per minute of video). If none of the off-the-shelf software packages suit your particular needs, it turns out its pretty easy, if you know what youre doing, to roll your own facial-recognition app using freely available open-source code. I watched one YouTube tutorial in which a programmer built his own facial-recognition system that could distinguish between his face and the cast of Game of Thrones. Its not hard to imagine more sinister applications. This spring, a developer claimed on Chinese social media that hed used facial recognition and publicly available photos from Facebook and Instagram to identify 100,000 women in amateur porn videos. He didnt share any proof and may have been lying  but given all the other seemingly unbelievable things about facial recognition we now know to be true, maybe he wasnt. I wanted to experiment myself, so I bought a Tend Insights Lynx Indoor 2, a tiny and cheap but well-reviewed home security camera that comes bundled with its own facial-recognition software. It worked well for what it did, which in my case wasnt much: I set the camera on my desk, connected it to my Wi-Fi network, downloaded the companion iPhone app, and uploaded a picture of myself so it knew what I looked like. I left my apartment, and in a few minutes when I came back, the Lynx sent a push notification to my phone to tell me I was home, along with a short video for proof. That may not sound like $60 well spent, but it was a small price for a feeling of control I might never have again: After the inaugural test of my home facial-recognition system, I unplugged it and stuffed it in a drawer. *This article appears in the November 11, 2019, issue of New York Magazine. Subscribe Now!",
+    "tokens": [
+      {
+        "text": "Russia",
+        "start": 12064,
+        "end": 12070,
+        "token_start": 2205,
+        "token_end": 2205,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "FaceApp",
+        "start": 12020,
+        "end": 12027,
+        "token_start": 2197,
+        "token_end": 2197,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Face-Six",
+        "start": 13880,
+        "end": 13888,
+        "token_start": 2535,
+        "token_end": 2535,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Moshe Greenshpan",
+        "start": 13926,
+        "end": 13942,
+        "token_start": 2544,
+        "token_end": 2545,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Tel Aviv",
+        "start": 13892,
+        "end": 13900,
+        "token_start": 2538,
+        "token_end": 2539,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "Warehouse",
+        "start": 15327,
+        "end": 15336,
+        "token_start": 2804,
+        "token_end": 2804,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "David Weil",
+        "start": 15300,
+        "end": 15310,
+        "token_start": 2798,
+        "token_end": 2799,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Bloomington",
+        "start": 15398,
+        "end": 15409,
+        "token_start": 2814,
+        "token_end": 2814,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "ACLU",
+        "start": 19999,
+        "end": 20003,
+        "token_start": 3626,
+        "token_end": 3626,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Jacob Snow",
+        "start": 19936,
+        "end": 19946,
+        "token_start": 3618,
+        "token_end": 3619,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "NYPD",
+        "start": 22679,
+        "end": 22683,
+        "token_start": 4111,
+        "token_end": 4111,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Devora Kaye",
+        "start": 22697,
+        "end": 22708,
+        "token_start": 4113,
+        "token_end": 4114,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Bronx Defenders",
+        "start": 23238,
+        "end": 23253,
+        "token_start": 4214,
+        "token_end": 4215,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Kaitlin Jackson",
+        "start": 23186,
+        "end": 23201,
+        "token_start": 4205,
+        "token_end": 4206,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Kairos",
+        "start": 27929,
+        "end": 27935,
+        "token_start": 5098,
+        "token_end": 5098,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Melissa Doval",
+        "start": 27940,
+        "end": 27953,
+        "token_start": 5100,
+        "token_end": 5101,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 2205,
+        "head": 2197,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 2538,
+        "head": 2535,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 2544,
+        "head": 2535,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 2804,
+        "head": 2798,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 2814,
+        "head": 2804,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 3626,
+        "head": 3618,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 4113,
+        "head": 4111,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 4214,
+        "head": 4205,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 5100,
+        "head": 5098,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "With the release of its annual Corporate Responsibility Report this year, Intel is reflecting on the progress it's made over the last 10 years in areas like diversity and inclusion and environmental sustainability. It's also looking forward to the next 10 years -- coming to the conclusion that meaningful change will take cooperation from the rest of the technology industry as well as other outside partners. \"The world is facing challenges that we understand better each day as we collect and analyze more data, but they go unchecked without a collective response from climate change to deep digital divides around the world to the current pandemic that has fundamentally changed all our lives,\" Intel CEO Bob Swan said in a statement. \"We can solve them, but only by working together.\" In particular, Intel is looking for collective action on the industry's shortcomings when it comes to diversity and inclusion -- an issue that has plagued the tech sector for years, even as technology giants repeatedly pledge to do better. To improve diversity and inclusion within its own workforce, Intel is aiming to increase women in technical roles to 40 percent by 2030. It's also aiming to double the number of women and underrepresented minorities in senior leadership positions. Beyond that, Intel says it wants to work with the industry to create and implement a \"Global Inclusion Index\" to create a baseline understanding of what it even means to employ women and minorities in senior and technical positions. \"We think transparency and measurement is really important in ensuring the technology industry raises the bar,\" Navin Shenoy, EVP and GM of the Intel Data Platforms Group, said to ZDNet. \"There's no common definition or metric for defining, for example, women in technology positions. At Intel, we define that as a woman with a technology degree and in particular with a PhD. Other companies define that as women working in retail stores in a technology setting. Neither one is right or wrong, but it shows you there's a big difference in how the industry defines what it actually means to have inclusion.\" The Index, Intel says, should help the tech industry identify the root causes of its lack of diversity, as well as the actions needed to collectively advance progress and build a future pipeline of talent. In its Corporate Responsibility Report, Intel pats itself on the back for the progress it made over the last 10 years. For instance, the company says it reached \"full representation\" in its US workforce for women and underrepresented minorities in 2018, two years ahead of schedule. Still, women only account for 28 percent of the company's global workforce. Additionally, Intel says it closed the gap in average pay between employees of different genders in the same or similar roles, after accounting for legitimate business factors that can explain differences. Diversity in AI improves, but has further to go, according to IBM survey Three women in tech keeping the gender conversation going At the same time, other metrics show the company has a long way to go -- Intel has been unusually forthcoming about the details of its pay disparity issues. In December, the company released data showing, among other things, that one in four white men at Intel are in the top salary tier. By comparison, less than 10 percent of black employees are in the top tier. Intel, Shenoy said, was \"one of the first, if not the first to just be radically transparent in publishing our pay across various gender groups and minorities, and it wasn't necessarily all that pretty.\" He added, \"We all have to get comfortable putting ourselves out there a little bit, even if the data doesn't look great today.\" While the interest in collective action on the matter isn't \"universal,\" Shenoy said, \"our peers in the industry are starting to recognize this is a real issue that's not going to solve itself through incremental action.\" Looking beyond the tech sector, Intel says it plans to partner with governments and communities to address the digital divide and expand access to technology skills. By 2030, the company plans to partner with governments in 30 countries and 30,000 institutions worldwide with the goal of empowering more than 30 million people with AI skills training. This effort has already started with programs like Intel AI For Youth, which provides AI curriculum and resources to more than 100,000 high school and vocational students in 10 countries. Environmental Sustainability Intel also has plans to leverage its partnerships to reach new goals in the area of environmental sustainability. The company wants to work with PC manufacturers to create a more sustainable and energy efficient computer -- one that eliminates carbon, water and waste in its design and in its use. Intel plans on creating a sustainability roadmap with goals like using sensor technologies to reduce power usage, partnering with material vendors on recyclable packaging and developing longer-term, energy efficient architectures.It also wants to create a collective approach to reducing emissions within the semiconductor manufacturing industry and cloud computing. In terms of its own individual sustainability ambitions, Intel aims to achieve net positive water use by 2030. It also wants to rely 100 percent on renewable power, send zero waste to landfills and produce additional absolute carbon emissions reductions, even as the company grows. Already, Intel has increased its use of green power to 71 percent globally, and it has reduced its direct carbon emissions by 39 percent on an intensity basis from a 2010 baseline. The company also exceeded its goal to reduce its water use below 2010 levels on an intensity basis, achieving a 38 percent decrease. Health and Safety Intel also has ambitions to forge partnerships to improve social outcomes in the area of health and safety. Specifically, it wants to work with partners in healthcare, life sciences and government to apply technology to various efforts, such as its recently-announced Pandemic Response Technology Initiative. The initiative includes a $50 million commitment from Intel to fight the COVID-19 pandemic. \"Over time, we want to make sure technology's being used in a way that can meaningfully enrich people's lives or even save lives, whether that's high-performance computing accelerating the discovery of vaccines, or through the virtual ICU we created with technology partners,\" Shenoy said. In terms of safety, Intel is focused on collective efforts to create autonomous driving standards. In 2017, Intel spent $15 billion to acquire Mobileye, an Israel-based company that produces autonomous vehicle (AV) technology. While it still accounts for a small share of Intel's revenues, Mobileye is a fast-growing line of business. Now, Intel says it wants to lead a coalition of industry players to advance new safety technologies and standards for autonomous driving, such as RSS and the forthcoming IEEE 2846. The IEEE 2846 workgroup, which came together last year, recently elected Intel Senior Principal Engineer Jack Weast to serve as its chairman.",
+    "tokens": [
+      {
+        "text": "Intel",
+        "start": 699,
+        "end": 704,
+        "token_start": 121,
+        "token_end": 121,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Bob Swan",
+        "start": 709,
+        "end": 717,
+        "token_start": 123,
+        "token_end": 124,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Intel",
+        "start": 1655,
+        "end": 1660,
+        "token_start": 298,
+        "token_end": 298,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Navin Shenoy",
+        "start": 1623,
+        "end": 1635,
+        "token_start": 290,
+        "token_end": 291,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Intel",
+        "start": 7067,
+        "end": 7072,
+        "token_start": 1277,
+        "token_end": 1277,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Jack Weast",
+        "start": 7099,
+        "end": 7109,
+        "token_start": 1281,
+        "token_end": 1282,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 123,
+        "head": 121,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 298,
+        "head": 290,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 1281,
+        "head": 1277,
+        "relationLabel": "employedBy"
+      }
+    ]
+  },
+  {
+    "document": "Google has significantly rolled back its diversity and inclusion initiatives in an apparent effort to avoid being perceived as anti-conservative, according to eight current and former employees. Since 2018, internal diversity and inclusion training programs have been scaled back or cut entirely, four Google employees and two people who recently left the company told NBC News in interviews. In addition, they said, the team responsible for those programs has been reduced in size, and positions previously held by full-time employees have been outsourced or not refilled after members of the diversity teams left the company. One well-liked diversity training program at Google called Sojourn, a comprehensive racial justice program created for employees to learn about implicit bias and how to navigate conversations about race and inequality, was cut entirely, according to seven former and current employees. Sojourn offered its last training to Google workers in 2018, four current employees said, and by 2019 it was cut completely. Seven current and former employees from across a range of teams and roles at the company said separately that they all believed the reason behind cutting Sojourn and taking employees off diversity projects to move them elsewhere at Google was to shield the company from backlash from conservatives. The current and former employees agreed to speak to NBC News on the condition of anonymity for fear of reprisal for speaking to the press. One of the major motivations for cutting Sojourn is that the company doesnt want to be seen as anti-conservative, one Google employee familiar with the companys diversity programming said in an interview. It does not want to invite lawsuits or claims by right-wing white employees about Google discriminating against them. Melonie Parker, Googles chief diversity officer, disputed the allegation that Google has scaled back its diversity and inclusion efforts. Were really maturing our programs to make sure were building our capability, she said. Parker added that changes Google is making to its diversity and inclusion work is focused on the need to provide a scalable solution across the globe. Google acknowledged it had ended Sojourn, but said it was not in reaction to conservative criticism. Sojourn ran for three years, Google said, and it was too difficult to scale globally, since it was focused on issues of racism in the United States and didnt apply to the rest of the world where Google has offices. Google and the majority of its workforce are based in the U.S. Four sources familiar with the Sojourn curriculum said the training was designed to be intensive, requiring multiple classes in small cohorts, and that the project was always intended to roll out slowly as the team learned how to scale up such an in-depth program. Working to reduce bias and address sensitive topics such as racial privilege and discrimination cant be done in a single session, the four sources familiar with the Sojourn curriculum said. The reductions to Googles diversity work come at a time when employment in the tech industry and at Google in particular is overwhelmingly dominated by white and Asian men. Efforts to diversify the industry have moved at a glacial pace, despite increases in hiring across major Silicon Valley firms. In 2019, Googles employee diversity rose less than a percentage point from the previous year for black employees to 3.3 percent and just over two percentage points, to 5.7 percent, for Latino employees, despite increasing its overall workforce by over 20,000 employees. Google isnt alone: At Facebook, only 3.8 percent of its employees identified as African American in 2019, up from 3.5 percent from the previous year. Parker said even Googles incremental progress is something shes proud of, since each percentage point represents thousands of employees and its not easy to diversify while growing at the scale Google has. Do you have information about reductions to diversity and inclusion efforts at big tech companies? Contact us. A key way tech companies have sought to retain employees from diverse backgrounds is by conducting companywide training programs on how to detect and counteract prejudice in the workplace. But throughout 2019, employees who worked on diversity training programs at Google have been transferred to other projects, like working on implementing changes to sexual harassment policies and human resources support roles, and others had their work reduced or taken away entirely, the sources said. Two other diversity training programs at Google, DEI for Managers, a primer to build skills around navigating issues of race on their teams, and Allyship 101, a program to learn about different types of oppressed groups and ways of supporting them, have also been cut, three former and current employees confirmed. Google would neither confirm nor deny that these programs had been cut but said the concepts from these programs were folded into another manager training program. Diversity has long been a topic of concern at Google, and the company has been public about its efforts to improve the diversity of its workforce for years. In 2014, Google was one of the earliest companies in the tech industry to release a report detailing the racial and gender breakdown of its staff. But the companys diversity efforts became a third rail in 2017, after James Damore, a former software engineer at Google, circulated a viral 10-page memo that spilled into public view that August. Damore criticized programs meant to address race and gender disparities within Google, claiming they were a waste of time because the reason there are more men than women in engineering roles is a matter of biological differences. He was later fired from Google for violating the companys policies against advancing harmful gender stereotypes. In January 2018, Damore sued Google for discrimination, claiming the company was biased against white men and employees with conservative politics. Two months after Damores lawsuit was filed, a former recruiter at YouTube, which is owned by Google, filed a lawsuit claiming he was fired after resisting an internal mandate to only hire diverse black, Latino or female candidates. Both Damores and the recruiters cases were moved to arbitration. Last week, Damore asked the court to dismiss his lawsuit. Although Damore was fired, his complaints werent ignored. The lawsuits against Google for being biased against conservative employees marked the beginning of increased scrutiny by the right wing on Googles diversity work. The right-wing news website Breitbart began covering the internal tensions about Googles efforts to become more diverse, publishing a July 2018 article on a speaker event hosted by Google on the topic of how white people can better navigate conversations about racism and privilege in the workplace. Breitbart accused Google of breaking its internal policy against using blanket statements about categories of people, such as about employees in certain racial groups. There was a meme going around that said white fragility shuts down discussions of white fragility, a person involved with the event said in an interview, referring to a meme that circulated on an internal employee message board. The event wasnt ultimately shut down, but additional security was provided. A hundred black employees could testify to the pain they feel in a climate thats inadvertently hostile towards them and management will go back and say, I need to get more data, and then three angry white men complain and everything comes to a halt, the person close to the planning of the event said. After the Breitbart article that summer, a raft of changes aimed at reducing the diversity and inclusion work ramped up across the entire company, according to three current and former employees. Even talking about the issue of diversity at work became strained, four sources said. In 2018, after all the Damore stuff, the higher-ups stopped saying the word diversity and were instead saying D&I, as in D ampersand I, one current employee active in diversity advocacy at Google said. D&I is an acronym for diversity and inclusion initiatives. Google denied this and pointed to the companys public diversity report, which uses the word diversity in its title. Google has never shied away from using the word diversity. We have always used that word. We are not directing anyone not to use this word anymore, said Parker, who added she could not comment on specific employee matters. Another former Google employee who worked on artificial intelligence said that she was told by a head of artificial intelligence research at the company that he did not want to give updates on diversity and inclusion initiatives during a quarterly all-hands meeting in 2018 because, she recalled, he said conversations about diversity could become a liability at the company. She was further warned by the research director that any real updates about their diversity work could come back to bite us, the former employee said. NBC reached out to the research director, but he directed all communications to Googles media relations department. A third former Google employee, who left at the end of 2019, recalled attending a meeting in mid-2018 where people at the director level were told to no longer use the word diversity with their teams. If companies try to avoid addressing problems by banning certain words and reducing D&I work, it's just going to get worse, not better, said Ellen Pao, the former CEO of Reddit and executive director of the advocacy group Project Include, which aims to increase diversity within the tech industry. You cannot build a company culture by focusing on avoiding litigation. Parker said diversity and inclusion efforts have not been reduced, but rather have scaled up. But the sources told NBC News that numerous programs have been cut and staffing has been slashed. ",
+    "tokens": [
+      {
+        "text": "Google",
+        "start": 1878,
+        "end": 1884,
+        "token_start": 313,
+        "token_end": 313,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Melonie Parker",
+        "start": 1800,
+        "end": 1814,
+        "token_start": 301,
+        "token_end": 302,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "U.S.",
+        "start": 2550,
+        "end": 2554,
+        "token_start": 439,
+        "token_end": 440,
+        "entityLabel": "LOC"
+      },
+      {
+        "text": "Google",
+        "start": 2492,
+        "end": 2498,
+        "token_start": 428,
+        "token_end": 428,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Google",
+        "start": 5434,
+        "end": 5440,
+        "token_start": 945,
+        "token_end": 945,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "James Damore",
+        "start": 5390,
+        "end": 5402,
+        "token_start": 937,
+        "token_end": 938,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Reddit",
+        "start": 9557,
+        "end": 9563,
+        "token_start": 1685,
+        "token_end": 1685,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Ellen Pao",
+        "start": 9528,
+        "end": 9537,
+        "token_start": 1678,
+        "token_end": 1679,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "Project Include",
+        "start": 9609,
+        "end": 9624,
+        "token_start": 1693,
+        "token_end": 1694,
+        "entityLabel": "ORG"
+      }
+    ],
+    "relations": [
+      {
+        "child": 313,
+        "head": 301,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 439,
+        "head": 428,
+        "relationLabel": "locatedAt"
+      },
+      {
+        "child": 945,
+        "head": 937,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 1685,
+        "head": 1678,
+        "relationLabel": "managerOf"
+      },
+      {
+        "child": 1693,
+        "head": 1678,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "Five Para-athletes helped to launch phase two by discussing their experiences of representing Canada, with videos of their recollections now added to the portal. Among them was swimmer Aurlie Rivard, who won three gold medals at the Rio 2016 Paralympics. Eight easy-to-consume videos of Andrea Carey, an expert in diversity and inclusion, answering common questions on the subject can also now be found on the portal. \"One of our core values at the CPC is inclusion and we take our role as leaders in promoting a safe, welcoming, and inclusive sport environment to heart,\" said CPC chief executive Karen ONeill. \"These additional resources will provide an enhanced platform for people to engage and interact within the diversity and inclusion space, ask questions, share best practices, and further push our sport community to make sport in Canada a safe space for everyone, no matter their background.\" A new Facebook group has been launched to mark phase two of the project, which it is hoped will be a useful place for all in the sporting community to discuss ideas and best practices. The diversity and inclusion portal was launched last year and includes resource from CPC member federations and partners. It also features an online self-assessment questionnaire which gives organisations instant feedback on where to start efforts to be more inclusive. The portal can be found here.",
+    "tokens": [
+      {
+        "text": "CPC",
+        "start": 578,
+        "end": 581,
+        "token_start": 107,
+        "token_end": 107,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Karen ONeill",
+        "start": 598,
+        "end": 610,
+        "token_start": 110,
+        "token_end": 111,
+        "entityLabel": "PER"
+      }
+    ],
+    "relations": [
+      {
+        "child": 110,
+        "head": 107,
+        "relationLabel": "managerOf"
+      }
+    ]
+  },
+  {
+    "document": "New York-based firm Patterson Belknap Webb & Tyler has announced its round of promotions for 1 January 2020, with Rachel Sherman becoming a partner in the firms litigation department in New York, continuing her focus on commercial products liability litigation and pharmaceutical advertising.",
+    "tokens": [
+      {
+        "text": "Patterson Belknap Webb & Tyler",
+        "start": 20,
+        "end": 50,
+        "token_start": 3,
+        "token_end": 7,
+        "entityLabel": "ORG"
+      },
+      {
+        "text": "Rachel Sherman",
+        "start": 114,
+        "end": 128,
+        "token_start": 20,
+        "token_end": 21,
+        "entityLabel": "PER"
+      },
+      {
+        "text": "New York",
+        "start": 186,
+        "end": 194,
+        "token_start": 31,
+        "token_end": 32,
+        "entityLabel": "LOC"
+      }
+    ],
+    "relations": [
+      {
+        "child": 20,
+        "head": 3,
+        "relationLabel": "employedBy"
+      },
+      {
+        "child": 31,
+        "head": 3,
+        "relationLabel": "locatedAt"
+      }
+    ]
+  }
+]

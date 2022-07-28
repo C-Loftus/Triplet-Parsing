@@ -1,3 +1,4 @@
+from typing import Iterator
 import typer
 from pathlib import Path
 import spacy
@@ -5,8 +6,8 @@ from spacy.tokens import DocBin, Doc
 from spacy.training.example import Example
 
 # this works so i can run this file from both
-# this directory and the directory above
-#, don't know how to do it more elegantly
+# this directory and the directory above,
+# don't know how to do it more elegantly
 try:
     from .scripts.rel_pipe import *
     from .scripts.rel_model import *
@@ -17,16 +18,21 @@ except:
 def inferFromModel(
     trained_pipeline: Path, 
     test_data: Path, 
-    debug: Optional[bool] = typer.Option(False),
+    stdout: Optional[bool] = typer.Option(False),
     json_output: Optional[bool] = typer.Option(False)
 ):
+
     nlp = spacy.load(trained_pipeline)
     allTriplets = []
 
     doc_bin = DocBin(store_user_data=True).from_disk(test_data)
     docs = doc_bin.get_docs(nlp.vocab)
+    binary = True
+
     examples = []
+
     for gold in docs:
+        
         pred = Doc(
             nlp.vocab,
             words=[t.text for t in gold],
@@ -38,7 +44,7 @@ def inferFromModel(
         examples.append(Example(pred, gold))
 
 
-        if debug == True:
+        if stdout == True:
             print(f"\n\nText: {gold.text}")
 
         spans = [(e.start, e.text, e.label_) for e in pred.ents]
@@ -81,8 +87,11 @@ def inferFromModel(
                             stdTriplet[ENT_TEXT][1] = rel_dict
                             allTriplets.append(stdTriplet) 
                         break
-        if debug == True:
+        if stdout == True:
             print(stdTriplet)
+        if binary == False:
+            return allTriplets
+        
     assert type(allTriplets) == list
     return allTriplets
 

@@ -22,5 +22,15 @@ To run this program from the command line, specify your desired approach in conf
 python api.py
 ```
 
+## Output Format
+Triplets and entities throughout this codebase are generally stored as parallel arrays, or list tuples. For instance
+```
+[[Russia, is, Country], [GPE, "", ""]]
+```
+An empty quote `""` signifies that spacy did not recognize any entity information from the text. 
+
+## Unfinished Components
+We have the modelApproach triplet model trained but we need an entity recognizer on top of it to make it more convenient. This model is only trained for relationship extraction. Without the entity recognizer the user will have to specify the types of entities he wants at runtime. So adding extra components to the pipeline will make the model more user friendly.
+
 ## Legal
 All software that I built upon or referenced in this project was in the public domain, Creative Commons, or MIT Licensed. All of these licenses are appropriate for my project.
